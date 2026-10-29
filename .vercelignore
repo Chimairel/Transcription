@@ -8,3 +8,5 @@ scripts
 *.wav
 *.log
 .env*
+!public/drafts/10.27.26 Affogato Day 1.txt
+!public/drafts/10.28.26 Affogato Day 2 (Morning Session).txt

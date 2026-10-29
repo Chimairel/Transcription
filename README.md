@@ -5,7 +5,7 @@ A frontend-only editor for local audio/video and TXT files. No backend, database
 ## Use it
 
 1. Open a recording from your laptop. There is no two-hour duration cutoff; playback depends on the browser's codec support.
-2. Use **Open TXT** to load the draft for that recording. Review the replacement prompt first.
+2. For the two included Affogato sessions, use **Load matching draft** after opening the corresponding recording. You can also **Download TXT** or use **Open TXT** for another file. Review the replacement prompt first. Initial drafts still require listening and speaker review.
 3. Listen and edit. Text saves to IndexedDB in this browser. Audio stays in the selected local file and is not uploaded or copied into browser storage.
 4. Export TXT to share the result. The export uses the recording's original basename.
 
@@ -15,7 +15,7 @@ After reloading, the text is restored; re-open the same recording to listen. Kee
 
 **Writing:** Shift+Enter starts a speaker label. Type 1–10, o, or o1–o10 and press Space/Tab to complete it. Ctrl+F opens Find and replace. Spelling checks include conservative English hints and reviewed local spelling/affix autocorrection with undo. Suggestions need human judgment.
 
-Common reusable spelling rules are bundled with the editor. Private recordings, transcripts, personal-name references, previous recording evidence and project coordination history are excluded. The public rule bundle is a snapshot, not a live connection to a private workspace.
+Common reusable spelling rules are bundled with the editor. The user explicitly authorized publishing the Day 1 and Day 2 morning initial TXT drafts in `public/drafts` as guides. These drafts are public, unchanged starting versions; later browser edits are not uploaded. Other actual transcripts, recordings, private word-library personal-name references, previous recording evidence and project coordination history are excluded. The public rule bundle is a snapshot, not a live connection to a private workspace.
 
 ## Develop
 
@@ -29,7 +29,9 @@ npm run build
 
 Import this repository in Vercel. Select **Vite**, build command **npm run build**, output directory **dist**, and repository root **./**. No environment variables or server functions are needed. The Vercel account owner chooses a plan appropriate for their use.
 
-Only publish the application source. Never commit recordings, actual transcript TXT, browser data, tokens or local environment files. Vercel is serving the editor, not storing or synchronizing recordings and edits.
+Publish application source and the two explicitly authorized starter drafts only. Never commit recordings, other transcript TXT, browser data, tokens or local environment files. Vercel serves the editor and starter files, not synchronized user edits.
+
+The Vercel install command is `npm ci --include=dev`. The lockfile must contain registry packages, never links to another checkout's node_modules. Validate deployment changes in a clean source copy with a fresh install; an existing local dependency directory can hide an invalid lockfile.
 
 ## Verification
 

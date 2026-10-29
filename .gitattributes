@@ -1,0 +1,2 @@
+# Starter transcripts are exact copies; do not normalize their line endings.
+public/drafts/*.txt -text

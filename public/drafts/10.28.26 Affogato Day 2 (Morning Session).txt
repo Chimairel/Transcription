@@ -1,0 +1,577 @@
+Language: Mixed
+
+Speaker one: Not the official process, but the real process. Okay? Including the workarounds. Okay? To build [unclear]. Okay? So, again, this is not an audit. Okay? This is not an audit. Unya, we just want to know what are the gaps. So, [unclear] maka-hibaw sa mga workarounds [unclear] ipanghimo. [unclear] ang gap [unclear]. So ang scope for today is first order to cash, we will follow the flow from ordering to cash. So that covers from store, reporting sa store, then abut din sa office, sa accounting, then recording it. Okay, that's the first flow, order to cash. The second flow, we will follow the purchase to pay which [unclear] overview [unclear]. Nga, majority sa inyohang ginapalit are prepaid. Okay? So, purchase to pay transaction. Then, inventory to books. How do we arrive at the cost of goods sold? How accurate are they? So, kahapon na nami-overview how it's calculated but mostly it's derivative based on the beginning, the ending, and whatever is the difference is the more or less the cost of goods sold. Okay? So again, this is not an audit. We are mapping [unclear]. We want to know the workarounds, especially the workarounds. And then show us the real artifact. Meaning if you have a report or any kind of paper trail, documentation about it. Show it to us. [unclear]. Okay, and then [unclear]. Like the actual spreadsheets, [unclear]. Okay, ma'am? Alright. And then, Kim will drive the discovery today [unclear] accounting [unclear]. So again [unclear], you know accounting is a sensitive topic. Money. Sir! I might ask for your patience. Because things will be uncovered, and we need them to be comfortable uncovering it with us. Because otherwise it will all be under the rug. Okay, so shall we start, Kim? [unclear]? Okay lang.
+
+Speaker two: So good morning everyone, I am Kim, Agile [unclear] consultant. So today since [unclear] ang atoang scope karon, so mag-start na sa katong daily sales capture. So yesterday [unclear] sa store na gikan sa ilaha, naghatag sila of daily cash sales report. Delivery daw siya, maabot siya diri sa accounting if na nag-delivery dito silbi ipaagi daw sa delivery driver. So mag-ask lang niya if unsa man [unclear] ang daily cash sales reporting niya, unsaan siya maabot diri, unsa process [unclear] niya [unclear] sa store [unclear] mismo. [unclear] maabot diri sa accounting.
+
+Speaker three: Summary siya. Sort of summary. Kaya sa daily sales ng DCSR ang [unclear] is kung pila ang na-deposit, pila ang sales, pila ang mga GCash sales, credit card sales, then ang mga [unclear] sa ilang pag-deposit sa cash [unclear] remarks [unclear] ang naka-indicates so a sort of summary [unclear] siya the whole day [unclear]. So ang flow is [unclear]. Ang flow, ihatag sa store sa delivery kung [unclear]. Then, abot na mo dali, i-receive na mo, amo na dali ka-record. Pero if kuan miss ka ng, if [unclear] delivery, walay maabot na niyong cash sales? Wala, pero ang schedule sa ilang delivery, [unclear] schedule sa [unclear] per store. Okay. [unclear]. So, [unclear].
+
+Speaker one: [unclear] na siya maabot? Okay, what is the lead time usually? Like the sale yesterday, [unclear] na siya maabot?
+
+Speaker three: Actually mukuan siya. Mutake siya o. Ang kahapon is Tuesday. [unclear].
+
+Speaker four: [unclear] na diri Thursday or Friday. Oh, Thursday or Friday.
+
+Speaker two: Yesterday, Miss [unclear], naasya giyipakita na sample sa daily cash sales.
+
+Speaker three: Yan, [unclear] na siya ay [unclear] ba ito? Oh, [unclear]. Oo. Mauna siya ang i-print nila upon the whole day of transactions then moto ang ilang i-copyhan or ilang [unclear] para sa DCSR katong sa [unclear].
+
+Speaker one: So, unsay basahon na na ma'am sa. [unclear].
+
+Speaker three: Ah, amang. [unclear] actually ang Z reading period ang aktual. Z reading.
+
+Speaker one: Pwede naman ngayong umam sa katong process na ninyo. Sampol. Sampol. Yes. Z reading.
+
+Speaker four: Pilato sir, lead time two-three days. So for example, ang delivery schedule na ito is Monday, Tuesday, or Thursday. So mahog ang. Sales for the weekend, Friday, Saturday, Sunday [unclear] Tuesday morning, and then Monday, Tuesday, Wednesday, sales will be [unclear] Thursday, Friday [unclear]. So two to three days, [unclear] Which one? [unclear]? DCSR, maabot in two to three days. That's why we can avoid that if everybody just sends the link. So it's not too. Ma'am, please, we are not yet. We are still uncovering the issue. We're not there yet. Okay?
+
+Speaker two: Ang kanisya, miss, kay. Based ni siya sa consa, POS, like generated. Kanao sa layo. Oh, kani sa layo. That's only a Z reading.
+
+Speaker four: [unclear] sa makina. Kanao. Pero kanaan sa DCSR, kana-kina.
+
+Speaker one: Can you walk us through, ma'am, the process of checking? What were we checking, [unclear]?
+
+Speaker three: [unclear]. So.
+
+Speaker four: Deposit sa money, actual money is store? No, deposit pick up. So, nae mo ato dito? From the bank? Yes. Okay, good.
+
+Speaker one: No, we don't attach it. Nara na siya sa store copy. No, sa store copy. Wala copy yan na. Maka-apot ko rin. Okay. No copy. Maka-apot ko rin.
+
+Speaker four: It's just a summary of all the deposit slips received. Now, UnionBank would just say they received it. They don't even count the money when it's picked up. Just documentation. Because it goes straight in the bank. Then when it goes to their cash center, the bank is open, the money is counted, and that's when it's deposited. But that's end of day. Okay. And then the deposit slips are returned to the store. So let's say deposit pick up today, Monday. So everything. It will be returned to the store on their next scheduled pick up which is on Wednesday. By that time, they're supposed to attach the deposit slips to that report and send it here. Okay. Alright. So. So, naay possibility nga ang deposit slip sa previous na sa bangko sa sunod ng DSR mo po yun. But not in this, kani. Wala pa ni Ani. Kani nga report, huwa pa siya. Wala pa. Sasunod na po. Okay, so. Which store is that? A C-side ang example. [unclear]. Alright, sige ma'am. So, let's go back. So, ang g-check na to Ani. Sir, excuse me [unclear]. Hindi, hindi. Nothing can come [unclear] us. [unclear] sir, ang naka-indicate delay, so talaga nyo dito nyo ng sales from here, sa [unclear], which is [unclear] sa POS. The actual, yes.
+
+Speaker three: So, ang ako naging [unclear], ang deposit slip is wala pa na-attach. So, para maka-hibaw din nga ang gineposit is, same amount na sa total slip or not, kung naging nga siya galing na, order over plus the breakdown kung ito nga mga deposit. So, diagin ba kabawang, [unclear] niya i-record mo na mo. Di mo na mo siya [unclear] o [unclear] para [unclear] sa deposit. So, inibutan niya, record niya sa [unclear]? Yes. Bisan pag wala ang deposit. Bisan pag wala ang deposit. Kaya di rin na naman siya makitaan.
+
+Speaker four: Okay. So, ang inyong basihan yun sa pag-recording is this one and validated by this one? Yes. I compare.
+
+Speaker two: Okay. Were there any instances na malik ang figures?
+
+Speaker four: Like ang [unclear], mao? Ang na-declare, [unclear], or na-swap. Sometimes short. Sometimes short. We call the attention of the store and then they review it. Sometimes short. Sometimes it's over. The overages of a few centavos is not really given much importance. It's either booked to the shortage of that branch or overage. Alright, this is done in close to [unclear] day or per shift? [unclear] day. [unclear] day lang yun? Okay, [unclear] day. Alright. Yeah, because you're only supposed to generate the Z reading everything. At the end of the day.
+
+Speaker three: Do you want to go? One is x reading, no? Ah, x reading is Normally the x reading are instructions to them that's supposed to be printed during change of cashier Dito sa X-reading, ang pag-change ug cashier. Yes, so that they validate whoever is outgoing cashier turns over [unclear], especially the cash to the incoming cashier. And that's the basis [unclear]. So that by midday or every time the second cashier comes in, it's established that especially the cash in the. Till it's balanced. If there's any shortage or overage, it's for the second cashier.
+
+Speaker two: Yes. Okay.
+
+Speaker one: So morning, si [unclear] na kumal siya, Wednesday 5:49. Kung yan ay yun? 5:49.
+
+Speaker three: 5:49 p.m., the printing of this text reading. Out na siya at 6:00. Out at 6:00.
+
+Speaker one: Okay, ngayon si [unclear], ouch, 9:11. Okay, and then the Z reading, 9:15. Okay, so [unclear] attachment is a long one. For the record, the attachment of the daily cash sales report are the Z reading for the entire day and the X readings of the cashiers and then we also have the settlement bills. For credit cards. For credit cards. And then, there are instances [unclear] dito kung [unclear] sa daily cash sales report. Okay. So, maa misdeclare, [unclear] cash [unclear], or maybe ang credit na ito sa cash na tingnan na. Yes.
+
+Speaker three: [unclear]? Wrong validation, assessment. They patch it paid as cash but it was paid as credit card or vice versa. So, how could you say it to resolve these kinds of discrepancies? So, we asked them to review and we also because. I-lisan nila ni in a report or what sa? No, we just make a note there. Do they have a settlement for the credit card there? Yes. There's also a settlement for the credit card. Naanang. Okay? So, that's at. No, naanang. This one. Okay. The figures there should total the figures in zero for credit card transactions. Okay. Nakabreakdown po na din eh.
+
+Speaker two: Yes. Naanang siya. Breakdown sa [unclear]. Naanang niya? Nagpa. So.
+
+Speaker three: [unclear] na siyang I. Cross-check against [unclear] and the [unclear]. So ang nabutang ko today is 350, ano ba? So ay ilana. Pero kung mayroon ka [unclear]. Okay. Nag-attachment always? Nag-attachment. Okay. The only reason why the attachment is that it was never a credit card transaction. Ah yes. But it was misdeclared. Na-declared siya as credit card?
+
+Speaker two: Yes. So cash, yung i-double check. Okay. So regarding [unclear] nga, daily month, everyday doon mo maka-receive sa katung DSR but at itong daily DCSR. So ang sana nyo pag-recognize sa revenue niya? Maabot na siya din? Ano lang ako mag-record na?
+
+Speaker three: Once na maabot na siya, magiging ang deposit slip, kung saan ba? Once na maabot na siya, muna ang mga siya i-report, i-record sa system. Then, ang kapot sa deposit slip, ang muna na siya [unclear] kung ang na-add in na o agad sa deposit slip. Pero regarding po sa [unclear], diba na may report for month-end report?
+
+Speaker two: I-submit sa management ninyo or? Sa owners. Sa owners. Wala. Ang [unclear]. Wala ni month-end. Wala. Well supposedly the P&L is the monthly report but it takes us three months.
+
+Speaker one: Yeah I can understand that because only when there's a delivery two to three days lead time multiply that by how many stores you have. So I can understand that. I'll just note, this is what I've been saying. Actually that scenario of waiting for the [unclear] is old style.
+
+Speaker three: Because these girls who are handling the stores have access. To their accounts. So they can verify right away what cash deposits were received. Yes. Okay. So like pick up Monday, Tuesday when they open our portal, they can look already what transactions entered that particular branch and if the cash deposit.
+
+Speaker one: That was reflected there is the same as the cash deposit in [unclear]. So that's what I've been saying. The physical deposit slip for me is actually useless already. So this portal mang portal ni sa banko? Yes. Portal sa banko, di ba? Bitaw. [unclear].
+
+Speaker four: Yes. That's what I've been saying ever since. I told these girls, they don't really have to wait for the deposit slips because they have access to the account. Okay, deposit na na, so what na tayo dito? At most, yes.
+
+Speaker one: Okay, that's good. Kim, question? Regarding sa katong P&Ls admins, for example, monthly mo mag-create P&L?
+
+Speaker four: Monthly na siya. Supposed to be, but it's delayed. Oh, yes. So mag-uhat mo nga ma-close for the month.
+
+Speaker two: For example, ang kanisya mag-agad siya. For example, ang kanisya kay considered siya for this month. Pero maagot ang last niya nga.
+
+Speaker four: Last niya ay na sa first to second [unclear] na sa next month. So muna yu reason na. Not first and second [unclear]. For the first or second [unclear]. If it's month, and depends what day na nito report share, because what's important to us. So we need to get the Z reading actually of the story. Yes, do you have access sa Z reading online? Oo, kaya di ako. Ano? Makita ka nila real time. Makita ko real time? Yes. Okay. So that's why actually, you know, everything is online. Yeah, so my question is, we can access the z-readings online. [unclear]. Actually, para yun na makita kung ulsay mga discrepancies in that certain [unclear]. Ang atong plan nga integration, sir, [unclear] pag-intrada. [unclear]. Human error. [unclear] misdeclare [unclear]. It's good for the buyers to prepare that so they know their own transactions. And then, if they can already pinpoint at their end, they see something wrong, they can already put a note there or they put in our slack that you know, this one was like this, and that's why it's not just end of day, the following day, we don't do that. It's check and balance also on their end. So meaning to say, we are already really capable of getting the information almost real time. Ang madili lang is ang. Following day. Following day. Z-reading, following day. Because we have to wait for the store to close. That's right, the clock. So the following day. Instead of two to three days. So [unclear]. That's the exception. Normally it's not two to three days. What's the normal lead time? We're also waiting kasi there's a schedule when it's picked up. It's not sent to us. Their documents are retrieved by the van when they go deliver to that particular store. So like Mondays, there's delivery. Ayala is able to send their DCSRs up to Sunday, right? On Monday. Okay. You know, just specifically. And that should be the case also with SM and [unclear]. So meaning, we can get the information, pinakadugay, if we do it, kukaw na ito dito sa portal the following day. Pero we can only execute the validation and checking once we receive this.
+
+Speaker three: Yes. Especially sa credit card, hindi naman good mag-matter. So, mga [unclear]. Di ba, wakang matter [unclear], hindi naman mga balance.
+
+Speaker four: Understood. Yes. So, kinahanglan [unclear], nga i-cross match each transaction.
+
+Speaker three: Yes, that's right. Munang [unclear] sa [unclear]. Actual. Assigned na maka-view me sa portal.
+
+Speaker one: Kim? Question? Okay. So, the store sends you this. You enter this into QuickBooks. Okay. By the way, ang i-entry ninyo sa QuickBooks, itong corrected [unclear].
+
+Speaker three: For example, na i-error niya. Before mo mo-enter din sa QB, hanggang ma-check na na mo. Parang kung sa i-error, ang munang ma-address na yun. So dito sa QuickBooks, basically link yun na ito? Yes.
+
+Speaker four: Okay. So for example, [unclear] dito. I-annotate na. So I imagine, file na ito dito. For proof. Kung ma-file na ganoon na ng winning, clear na siya. Okay na siya. Okay. Then sunod na yun sa QuickBooks. Alright.
+
+Speaker one: So I imagine, hindi na po nyo ma- So i-entry dito sa QuickBooks, hindi na po na-recognize itong mga revenue. Hindi mo kag-i-entry naman. So is it safe to say nga katong kung wapan nyo mo abot, wapasad yung sulod na itong QuickBooks. So meaning, what's happening to the books during the time wapan nyo mo abot is it's empty. So user, you will not be able to see anything. And in my experience, if you're in the food business, three days is.
+
+Speaker two: Too long.
+
+Speaker four: Maybe the following day is acceptable but. Yeah but what do we. Because we have access to. We wanna check something. How much sales and it like that. We have access to the Alliance POS software. So we can log in here also. They can also or they ask us for the information. Those that have. You have access to the Alliance POS? Wala.
+
+Speaker three: They also have.
+
+Speaker one: Alright. Okay. There's an access but maybe the facility to view it in a more accessible manner especially for stakeholders. Owners. That's what's missing. Maybe consolidated view of the everything. P&L also. So who reconciles Store cash versus what accounting recorded. Kung si store dun ay mismatch sa cash. Unya, narecord na sa accounting. Then we found out later, uy mali ka na. I mean, nakalusot ba?
+
+Speaker four: Nakalusot. It happens. Magyoon, di ba?
+
+Speaker one: Malumuli ka yan. What happens then?
+
+Speaker three: Kanakla scenario is, what do you mean? It doesn't happen. Are you? It should be caught. It should be caught by that. By this. And then, if it's really, we make incident report, it goes to HR so that HR can ask operations to coordinate with this branch to investigate, to cashier, blah, blah, blah, blah.
+
+Speaker two: Okay.
+
+Speaker one: Alright. So, store sends out this cash report. Accounting receives it three days two to three days later Double checks The actual process of double checking is as described Itong check na ito ni Compare this Then once na limpio na, it's valid and correct After sa mga back and forth between the store kung na yung mga issues Then it gets recorded to QuickBooks Alright So that's for your Cash to order to cash flow. That's your order to cash flow Do we have collections collectibles?
+
+Speaker three: Wala ba no? Cash man dahil diba?
+
+Speaker one: Okay So that's for order to cash flow. Next, ikaw wala na kayo question sa order to cash nilang flow Okay Okay.
+
+Speaker four: So ang mo-records sa system is. [unclear] handles all the SM branches [unclear] has four other branches also to her Okay So it's late So [unclear] handles all the SM branches and then [unclear], Ayala, [unclear] Alright.
+
+Speaker one: QuickBooks and then the after-entry after-entry is a QuickBooks ma'am Does it affect the P&L already? Sa dito, sa QuickBooks?
+
+Speaker four: No. Daily pa? That's why the process of preparing the P&L and the balance sheet takes so long. Because the head accountant has to get all the figures from QuickBooks and manually update it in the P&L. So, she's doing. P&L for individual branches and then a consolidated where it shows their head office and store activities for that demand. Okay, alright. So that's why what we have been trying to see to look for, to facilitate the preparation of the P&L. Okay, so there's another process diay. Kung ma-entry, manumanohoni o kuha, retrieve by the head accountant, consolidate it or process it for whatever it is.
+
+Speaker one: Yes. Okay? Then, prepare siya ug per branch na P&L. Correct. And then consolidate it for the entire. Yes. Okay. So there is also.
+
+Speaker four: Preparation. The daily for accounting is not really that. It's fast. It can be faster of course. But the one that is really critical is the preparation of P&L and balance sheet which takes long because.
+
+Speaker three: It's done manually transferring the figures from QuickBooks to the financial [unclear].
+
+Speaker one: Okay, retrieval from QuickBooks. So who does this ma'am? The head accountant. So the tools she is using is QuickBooks and Excel most likely. Yes. Okay. So the P&L is delivered in what format? In Excel also? PDF, Excel also. Excel. I'm gonna say generate from QB, sir.
+
+Speaker three: Exporting to Excel. Manually input to Excel. Okay, i-generate na na mong ma'am from QB, export to Excel. Then after that, iwan mo na ni Ma'am [unclear] para sa kong serelyon. That's what I mean. That's why it takes long on [unclear]'s side. Yeah, [unclear] siya mo, nung take longer than it could be.
+
+Speaker four: Oo, kayang lang susihon yun. And that's the one prone. Mistakes. Yes, that I have to double-check everything before sending it to [unclear] and [unclear]. That's right. Even her formula, sometimes it's corrupted. Yes, if you deal with this.
+
+Speaker one: With the volume, sheer volume lang daan sa transaction mawagin na siya. You have some mistakes so you're right ma'am. We need must have a way to automate this. So okay so after recording this there's a preparation for the P&L balance sheet per branch and then you consolidate it. It's done by the head accountant. The system or tool used is QuickBooks and Excel. The input is coming from QuickBooks. Okay? So, gi-extract ninyo from QuickBooks. Give it to Miss [unclear]. Then, yan ang i-double check. And then, consolidate it. Then, submit. So, ang pay na ito dia is error prone. Okay. Okay. So, I think we're done with order to cash flow. Arita na punta sa purchase to pay. Purchase to pay. Okay. So, let's begin with, are you at the store? So, kung saan pag, kung sa iyo, flow natin, work sa expenses sa store.
+
+Speaker three: PCF, sir?
+
+Speaker one: [unclear] PCF.
+
+Speaker four: [unclear] mga receipt [unclear] mag-prepare.
+
+Speaker one: Okay, so padangang resibo. So it's like a liquidation?
+
+Speaker four: They make their liquidation form, they email it, but we still need the physical receipts. Yes, that's right. So the receipts most likely kuyog or not. Kung sa frequency sa maadawat niya ng [unclear], ato lang kuyog. Kuyog na siya. Pwede na mangyayog. So, prepare sila, submit [unclear], then what's next ma'am? Sa QuickBooks, expenses. Okay, expense.
+
+Speaker one: Okay. Alright. Then, after [unclear], retrieve, export to Excel, no? From QuickBooks, export to Excel, then submit [unclear]. Yes, huyag na siya sa [unclear]. Yes, huyag na na kay P&L ma, di ba? Okay, so, and balance sheet. Okay, so pretty straightforward. Nagingon to kahapon sila si store na ang ilahang pag-liquidate is wala silay schedule. Like kung ilaha lang huwaton kung. They need the money. Yeah.
+
+Speaker four: So it's not. Okay, liquidate. Some branches once a week. Some. Two times. Every two weeks. Depends on. The expenses they incur. Okay, so.
+
+Speaker one: So the first page is. Bago na din, [unclear] na sila. Hindi, bakit naman ako check it? Okay. Hindi akong entry? Hindi mong entry sa QuickBooks, ma'am. This is entered as a bill in QuickBooks? Yeah. Siya i-classify po daan.
+
+Speaker four: And then mo na ilahang summary sila naghimo ane Yeah, pero, ako na [unclear] kung sakto ba ilang hanggang ng butang, especially kung asa nila.
+
+Speaker three: Let's say, for example, a dessert category. May sometimes sa ubang store na, instead, butang nila is unique, restaurant is under repairs, and it's meaning nila. So, kung diwi na po siya, ano siyang i-check kung sakto ba ang butang bari na ito. [unclear] account Okay.
+
+Speaker one: [unclear] identify [unclear]. And then, you know, [unclear] Okay, maunan niyang supu, mga aning, [unclear]. Okay.
+
+Speaker four: Dayon, igabot ani ma'am? Iyong. Oh, iyong intrihan. [unclear]. Iyong aning, imong output. Mane. They both do that. Asa na branch? Yes. That's right. Okay. After the entry, they prepared the check for my signature and we in-cash it and the cash is delivered to the store. Good.
+
+Speaker one: So, that's very straightforward. Okay. So, the first step is, amu prepare anu dito sa store si cashier. STL. STL.
+
+Speaker three: We're just no money already.
+
+Speaker one: For the summary so STL prepares the what is this called? Liquidation form. Okay. Liquidation form? Whatever you wanna call it. Liquidation form. No, I need this I need to use the terms that what you call things so that when we implement it's gonna be the same language. PCF summary. PCF summary. Okay. So this is a liquidation form. It's PCF summary. So STL prepares PCF summary STL.
+
+Speaker four: It's replenishment form. But actually, yeah. Replenishment form. Siya, iyang hinwog store supplies. Yeah, that they already, [unclear] already discussed that they don't follow the description in the report rather they look at the receipt to classify the type of expense.
+
+Speaker one: What happens if the STL do not classify it?
+
+Speaker three: So [unclear]. No, sometimes we put miscellaneous on that report.
+
+Speaker four: But we check where it's supposed to be.
+
+Speaker one: We check where it goes.
+
+Speaker four: Which account is applicable.
+
+Speaker one: So, ang ilang pag-classify ni STL is more or less suggestion na gari ni Butang. Kayo, we still have to validate it man. Then if it's not right, then we go and change it. No? Yeah. Because it depends what the store was used to from the very beginning. So they keep doing it like that. Okay. So receipts, then output is the filled in PCF.
+
+Speaker three: Because really at the end of the day, it's these two girls based on the receipts that they received who will do the correct classification. Okay. And if wrong, ang classification mo, tanawang sa resibo nga yung ayun.
+
+Speaker four: Tanawang sa Resibo? Because that's the only way you can know that that's the correct classification. Right? [unclear]. Yes, ma'am. Kaya kan. Yes ma'am. It's like [unclear] garnish [unclear] toppings. [unclear] asa nila gi-gamit [unclear]. So dapat sila [unclear] categorize [unclear] ilang gigamitan. Yes. Okay, [unclear] po ka sa resibo mo tanaw, [unclear]. Ang sagit ang gigamitan ng aning? Or more or less, checking na lang if sakto ang. Critical raba ni? Dapat sila kung ano siya? O kung ano siyang reflect na siya sa expenses? Yes. Sayo kilang categorization niya. Kamu po di. Bukasag mo i-diya kasi sila biyay na ipaw. So dependent mo aning sasakto nila nga.
+
+Speaker one: Most likely manawang sila na po ano yung confirm na po kung asana gi-gamit nila ako sa ikipalit. So, mo ang virtual na [unclear] mo. Oh, ikaw na. Ma'am [unclear], ma'am. Hi ma'am, good morning. So, manawag sila din mo ma'am kung asan nila kung ay categorize? Doon na ba sila ikuha dito ma'am sa tindahan ng mga guideline? Actually, I wanted to interject but I know we're not supposed to ikuha pa mga interim solutions but I think You should be given a chart of accounts that falls under the chart of accounts.
+
+Speaker four: Oh, naging guideline ba? At least we achieved something. Mahimo na nato karon. Instead of waiting for that, I think we can establish. With the existing system. There should be a common. Murapag kung gagawat pa nag Excel form ay drop down ba?
+
+Speaker one: Oh, guideline ba nga?
+
+Speaker four: Kaning ng origin is yung specific. Kung imun yung igamit kaneng. And in that description, use case scenario na makuha, if ang ipalit is kinesia, galing money ang classification. If kinesia money ang classification Kana pa lang dahil ako nag-impact sa P&L Yes, especially sa [unclear] Yeah but at the end of the day, when they do the drop down, if it's still wrong, if it doesn't make sense we don't follow the report Kung it doesn't make sense, we can still write. That's why. So it doesn't really impact the P&L right away? Yes, indirectly. Even if they do that report, once it gets here, that really has to be validated. It's not like the petty cash [unclear] goes straight into QuickBooks.
+
+Speaker one: No. It's from here. But at least the back and forth between accounting and operating money. It's very minimal also. Well, what they're experiencing is [unclear] for them. [unclear].
+
+Speaker four: It's very minimal. And this one here, identification of the category is minimal. So more or less, pag-abot ano eh, give a lot of money to go. Well, they look at it if they check the receipt and they know from previous experience where it's actually supposed to go. Once in a while lang there's something that's purchased that's new. That has never been classified before. So that's when. It's not like everyday when they receive that, they have to call for verification. Okay so, [unclear]? But petty cash is straightforward. There's really actually no major problem here. The reason why we are lingering on this for a considerable amount of time for this session is because in my experience, it's usually the things that we consider no problem are the problem. It's an indication that when [unclear] came in and sat down beside me, it was the same thing that the stores were really good. So, just using the psychology of how it would be. Masayang na sa stores because of their formulas and all. That's why, that's what I'm saying. If we can solve it now, if we. The stores may ating an [unclear] it now of the items is the preparation itself of the record.
+
+Speaker one: Okay, so.
+
+Speaker two: Like sometimes they don't know When you do the horizontal vertical, it doesn't match up.
+
+Speaker four: It's the formulas. But with regards to classification of expense, it's very minimal. Basically, we can say master na gait ang tindahan kung klasipayan eh. Okay, balik-balik naman lang purchases. Balik-balig naman o. Balik na sayo. There you go. Balik balik na sa iyo. So, dapat ko sa ko ngayon dapat sa ko. Ang eggs kayo. [unclear] ako. [unclear] mo ko niya lang store supply. Aha! Napatay ko ang COGS. Kuha ka COGS!
+
+Speaker two: So, kaysa may mo-check sayo na namin.
+
+Speaker four: [unclear]. Guideline na lang. Ingnan si tindahan nga [unclear]. Hands tied man mo ani [unclear]. Supposedly [unclear] i-classify [unclear]. Kuwang ang COGS. Ang kanakasya na nga person na nagbuwat on that specification rather than recollection of asauna na sayo. Napundo na ba? Ano ay nahoob ka ng prejudicial na kuwan na mugiw sayo rather than in the active mismong kuwan. And then mapitol nitaw ang actual mistake. Yes.
+
+Speaker one: Daghan sa ako experience, o ba namang ipang implementan like Ang tagahan sa branch, ang ingno na ako mo yung mong classify mo yung sabihing ka mawana.
+
+Speaker four: Kung naan ay guideline, [unclear]. Mahihang warap ang [unclear]. Basta na lang kiklaro ng guideline. Kung kinitlog mo niyong gi-gamit, isagol niyo sa itong produkto, [unclear] na account ha para mo-reflect na sa itong goods sold.
+
+Speaker one: Alright. Alright, [unclear] filled in replenishment form and then record siya sa. Okay. Then replenishment form. Tapos after, ma-receive sa accounting, yun yung duhamang kung dipindi kung saan ang branch ang nag-submit. Then you record it in QuickBooks as a bill with classification na na siya. So ang mahimu is si Ma'am [unclear] or si Ma'am [unclear]. System is QuickBooks. Okay, so ang pain na toani when you're recording this is mali ang classification. Okay, anything.
+
+Speaker two: Else? Ang sakit sa store ng what? Ang mga masay, pag-aing original copy sa receipts So sa hai, ilang isent ito sa email at manila na yung man. Manong.
+
+Speaker three: Gayi abot so mag.
+
+Speaker one: [unclear] information [unclear]. Ah okay. So kinahulanin mo ang aktual physical nga kanyang resibo Anong needed na ito ang aktual ng resibo?
+
+Speaker three: Kay Usohay, paid na. Global payment.
+
+Speaker four: Usohay na sila ay napayaran nga not included. Like sa kanang sa tubig siya. Yeah and it's a practice we don't pay anything out without the petty cash voucher or receipt of sales invoice. That's our control on [unclear].
+
+Speaker one: So, do they have a return to the [unclear]? Do they have a replenishment? Okay. We will wait. The fully affects now our head office in the warehouse.
+
+Speaker four: Serendra and North Edsa. So, DHL or. If they can take clear copies, it's not too much. They take clear copies or scanned copies of the receipt.
+
+Speaker one: That could be an alternative while waiting for the actual thing? It should be, yeah. Nga nung daily sila ka-email ma'am, kasend sa scanned copy ng Kuan? You have a idea? Kuan, actually is I don't know two pictures. Actually wala pa sila dito ay printed with our scanner. Ang nangigamit is phone lang yun.
+
+Speaker four: So, i-compress na nilang photo sa drive. I-compress niya ang drive. Pero ang picture niya lang [unclear]. May is it clear enough? Acceptable? Or nagyo yung. Naay. Blurred. Naay. So, mag-advise siya. Makita na po ang [unclear] number. Yes, important mo na.
+
+Speaker one: [unclear] number. Pilay tax na to.
+
+Speaker four: [unclear]. For approval [unclear] original receipts.
+
+Speaker one: Ang pinapoint na ito, [unclear], delay in submission of actual receipts.
+
+Speaker two: Pero mag-wait yung kasakatong original doon? No, ako nang i-send if misi siya nila allow it.
+
+Speaker three: Especially if they don't have enough funds in Manala so I have to send them money. Rush.
+
+Speaker two: Okay. So, mo-submit sila o.
+
+Speaker one: [unclear] copy. So email ni. Dahil yun, ang atoong procedure is what to mean ang tinactual. If they will submit the summary today, they will also send the actual receipt today but then it's [unclear]. If it takes long. It's rush.
+
+Speaker four: They're asked to scan it and to the best of our ability, we try to. But normally they don't. They're not supposed to wait till the last minute to replenish. Yes, dapat. Kaya nga layo man sila no? Dapat untat to regular sila muli bidin. Kasabot sa tang hindi sila kag-called kay.
+
+Speaker one: [unclear], niya. Okay. So ang sa Manila online, niya soft copy lang. Pwede ragid untat to nga. Soft copy. Basta klaro lang. Pero pwede po lagi klaro po sa Hi.
+
+Speaker four: But we still need the original receipts here in case were audited.
+
+Speaker one: Naali ha po. Nating kapakita. Murabag siguro just to fast track the replenishment in the meantime, digital copy lang.
+
+Speaker four: Yes, because they're told they're not supposed to wait till the last minute. We still need original receipts for the fact that we still need. Yes, that's right. Pero it's a good thing. [unclear]. Every [unclear] days [unclear].
+
+Speaker one: So, okay. So how does a store expense get recorded? Mana ito? We have described the flow. Proof receipt required. Okay, we already covered that. How does it reach a ledger? Kato, QuickBooks or delete pa na QuickBooks? I-export pa na no? For example, record natalima sa expenses dito sa QuickBooks.
+
+Speaker four: Then katong na data i-retrieve just the same way sa kawan. I-retrieved kuyo. Pagkuyong na ni sila, eh? When they retrieve whatever QuickBooks entries and give it to [unclear] Kuyong na nilisila It's all there. It should all be there Inclusive water, electricity, rental, everything Yes ma'am Ma'am, what took you so long?
+
+Speaker one: Ano sayo makinugay ma'am? Sa, ko ano? Preparation or financials Tagahan, ma'am.
+
+Speaker two: Number one is sales. Pag-upload na nilang humanda yun.
+
+Speaker three: Some other expenses na for that month kayo dilit din it lang mo na-collect within the months. Okay. Di ba?
+
+Speaker one: Maski ang BIR. We can't do that.
+
+Speaker three: So what else? That's why it's basically. She's tried it's the manual transferring of the data to the Excel file. Yes.
+
+Speaker one: So ang madugaya na ito, ma'am number one is hindi sa QuickBooks ilang i-export to Excel. Ngayon mo-add tulad nyo. Dahil ba mong sisunodan ng process nyo? At saka itong ilang ibang kuha ng data sa Excel.
+
+Speaker three: Oo. Galing ra man kayo. Diba sa QuickBooks? Iba generate naman kayong. Profit and loss. Yes, that's right. Tapos? O, validation na lang. Checking. Oo, pero pag-abot magod sa data. Sa ako ah. Dugay silang maka-feed of data ni mo. Kaya sila po, wak pa po yung data ni abot. Okay, for example, kinuwa ka ni abot? So what you're saying, when you get the P&L from QuickBooks, you don't manually transfer it to Excel anymore. How come I see you do that? No, [unclear] na ako mismo. [unclear] sa mag-format ka ng Excel sa imo hang mag-generate ka from QuickBooks to Excel.
+
+Speaker one: Export to Excel. Oh, ikaw dahil mo [unclear] na ma'am. Export. So kamong duha ma'am, entry jud mo. Alright. Ikkay mo-export to Excel. Then dito na sa Excel nato, huwag natin mga corrections dito na buhaton. What happens to QuickBooks kung naikorreksyon dito sa export ni mong Excel?
+
+Speaker four: I-reflect ba po ang changes? I-reflict no, di ba? O, kailan. Sa kayo bidtura sa Excel. So [unclear] correcting entry or something dito sa QuickBooks para tugma. Ibalik ni mo siya.
+
+Speaker one: That's right. Di ba? Okay. So ang makalangayan is, ikaw rin nakadawat sa delay. Kaya ang delay dito sa sinugdanan.
+
+Speaker four: Ang ako manggod is [unclear] company na consolidated siya ba? It's Gelatissimo and Affogato Corp.
+
+Speaker three: So ganahan ang tapo na ang data sa Gelatissimo, Affogato Corp. will be consolidated nasa itong [unclear]. That's the one you use manually right? Oo because I do it manually.
+
+Speaker four: Pila ka branch si. Wait sa.
+
+Speaker one: Anong si structure na to gani? Affogato Corp.
+
+Speaker four: Affogato Corp., which is the company. That's the company. And then the branches we have.
+
+Speaker one: So more like si [unclear] DBA na niya doing business as Satu ba? No? So Affogato din.
+
+Speaker three: Sa karon ng god is ay duwit man wali kay hindi man yung mong konsolidate ng buho sa pagdung sa karon. So maghima ko P&L sa branches and I used also make up [unclear] sa A-Corp and then I'll do it manually to consolidate the two accounts.
+
+Speaker one: Sa iyong QuickBooks ron ma'am lahat may chart of account sila? Lahit o chart of account siya?
+
+Speaker four: Lahit no? Lahit, yes. Pero ang data ngayong gina. The word is na may similarity only lahit gita siya o books kaya siyempre lahit man siyang a company. Oh, wait sa ha. Sa iyom QuickBooks lahit siyang acompany. Lahit. Pero technically the real actual canning si.
+
+Speaker one: Si A Corp o si mga Gelatissimo, ihara ng mga tindahan under na niya. So technically, isaragin na siya ka [unclear].
+
+Speaker four: O, magandang ito sa lito. O, [unclear]. Mawin ang imuha siyang tapoon.
+
+Speaker one: So ang data per brand, ismoto ang imohang i-feed dito para sa Affogato Corp. Okay? Para makakuha ka. Okay. Alright.
+
+Speaker three: For the consolidated, the branch sales is only seven already. There's only one here. Sa consolidated na? Yes. It just says branches. So each branch, it's important to leave wants to know also how much the percentage of [unclear]. You know, all the regular. Ratios needed, [unclear] ratios to find out how the store is doing. Okay? But once it's brought into the consolidated, all the sales now of the seven, [unclear], it's a branch.
+
+Speaker four: Branches lang. Sa consolidated report. Yes. And then head office. We also have our own [unclear]. We also make our own purchases.
+
+Speaker three: Our own expenses. Our own, our own expenses. Of course, we have to supply it. Stores, so we don't get any [unclear] in the head office.
+
+Speaker one: So we treat the other. We treat each store as an individual business that contributes to the mother business. So kung magpaligyan mo, magpadala mo dito o magpadala mong kit, purchase ito nila.
+
+Speaker three: Mag-issue ang inventory in charge, mag-issue o [unclear] slip. So [unclear], like for example [unclear].
+
+Speaker one: But what about the recording of sales sa branch? Like nakahalin na siya, si branch. Does it also. Hindi po na natin i-record nga. Hindi ko mag-record sa sales sa akong Affogato since ako i-follow na sa sales guys, sa consolidated kay ang salesman sa stores.
+
+Speaker three: Katong halin mo? Oo, sa stores man na salesman mo ginamit. Ang the only sales nga i-record na po sa Affogato is the sales from our commissary. That's for the pastries.
+
+Speaker four: That's separate from the gelato.
+
+Speaker one: So ma'am, inig magpadataog stocks dito pa doon sa tindahan halin na ni Affogato Corp. Yes. Okay. Unya inig makahalin si tindahan, ihaaran ng halin.
+
+Speaker three: Yes.
+
+Speaker four: Dahil mubayad ra siya nato ni Affogato Corp. Okay, so inig-consolidate niyo mo sa [unclear], sa P&L sa Tanan, katong halin nitindahan, hindi na ito mo appeal. Tama ba? Katong halin nito pa doon sa customers?
+
+Speaker one: Okay. Wala ko po siya ay importation na-record. Kaya ang importation is also covered by the A Corp [unclear]. Sorry ma'am, pasamtagay ko anang importation nga term. Itong prepaid na to. Katong prepaid? Ah, okay Katong prepaid na ito nagungkikan sa Australia Yes By the way guys Sorry I hope di mo maano yun This is how we We ask like we're five Ngaan ni mi? We have some idea already but sometimes moving on mo buukan lang yun like we're stupid para lang yun makapture na ito ang Okay So Tungkong kaya wala siya importation. So ang imang tindahan, wala siyang importation. Ang imang sales ato ayaharagyod. But iniconsolidate niyo ma'am, ang imang i-consider nga halin for the entire [unclear] is ang halin na si tindahan. Di na ito na ito i-appell ang halin nga katong ipadahan na ito sa tindahan na items that we pilih na no? Wala na. Okay yes. This is minus from inventory. Okay.
+
+Speaker two: So that's the beginning and ending inventory per year. So there's also two sets of inventory. Inventory warehouse, inventory store. Okay.
+
+Speaker four: So once it's the order, she prepares the rows whom you met yesterday, prepares the order slips so downstairs can prepare, is given. Then she gives a report, we just call it codes. How much to charge each branch. And here, the account of the branch is debited and credit the account of A Corp as their payment for what they purchase.
+
+Speaker one: Okay. So there's a customer-vendor relationship? Yes. Okay. But the only time that will change, because before we had a franchise store, we had one store that was franchise. So. Ilang order sa mga kits, itong nga di-supply sa Affogato will fall into part of their sales or our sales. Kay franchise man na? Yeah, kay franchise man. But right now we don't have any franchise store. But we would like to make that adjustment later on. Yes, understood.
+
+Speaker four: Okay. Alright.
+
+Speaker one: So basically the delay in the preparation of the P&L is just a domino effect from the delay of the transmission of information and then you add processing time for validation.
+
+Speaker four: I'm done with the P&L for branches for the month of September. Yeah, I still have to check. For September? For branches. For the consolidated [unclear]. Still too long. Pero sige na lang. It's better than August. That's right.
+
+Speaker one: Okay. This is something we need to fix immediately for. We have clients. Mostly some clients are in commodity driven products. Mga manok. Ano ba? And then the price changes daily. Daily. So you can't afford to see the P&L two months after. They have to see the P&L like tomorrow. We need to see the P&L tomorrow. If the chicken prices raised by one peso today, if they sell a million kilograms na. Di ba?
+
+Speaker four: Ingaanak ba po? Well technically now since the dollars are volatile kasi up and down you know So.
+
+Speaker one: Sir, integration POS has just moved to critical. Okay, so that's part of the integration now? Yes, part of the digital integration. From the Alliance software? Yes, so we have to reach out to Alliance. Naman na sila integration nga platform. We will integrate. Para suda yun. Palidit da yun. Yes. Ano ba? Check da yun mumam. Di ba? Alright, so. Now, okay na ta sa expenses. Let's go to the bills kanyang sa supplier. Katong import. So what's the process flow na ito, [unclear]? Kisay handala na gani?
+
+Speaker three: Importation.
+
+Speaker one: Ah, yes. Okay ma'am. So I understand na prepaid ni sila. Okay? So after. How's the ordering? What's the flow for the ordering?
+
+Speaker four: They take care of the ordering. It's sent to Australia. After which, back and forth, what's available, what's not, blah, blah, blab. When finally the goods are. They depart. [unclear]. We're sent a billing from Australia with a summary also of how much was [unclear]. Hi. Hello. [unclear]. And then sometimes you have credits [unclear]. So it's also there. Based on the summary, there is an AUD amount that we have to pay. So we check everything and then we get the funding to send them a [unclear]. Once they give that final bill, we give it only seven days. To settle the bill? To settle, yeah. Okay, so I apply for telegraphic.
+
+Speaker two: We buy whatever the knowledge of ever. I apply for the telegraphic transfer. It's set. They confirm receipt. Then we wait. And then I give [unclear] the amount of how much we pay.
+
+Speaker one: Is the purchase order recorded somewhere? Like books or is it email only?
+
+Speaker four: We have a form. Purchase order. So that's from QuickBooks. Okay, that's a form. Okay, so they enter it into the. Do they enter it in QuickBooks first before sending or communicating with the supplier? Or we communicate first? No, no. It's here in. See [unclear]. Ah, [unclear]. Okay. [unclear] communicates with the. Australia. Okay. Then once that's finalized, it's entered into. If I'm not mistaken, it's only entered when it's received. So she doesn't [unclear] a purchase order? P.O. or something. Because before we used to [unclear] a purchase. But Australia now has their own order form. So we input in that order form from them. Yeah, but we can still use that to erase a purchased order. Yeah, yeah. But then we double check really what we receive because also sometimes There's some damaged goods and stuff, you know.
+
+Speaker one: Based on the discussion with Ms. [unclear] yesterday, she communicates with a vendor. Then the vendor sends her a summary of the products and their expiry dates. And then from there, she creates the order or makes the order. But apparently now they don't raise a deal. They just. Use Australia's order form. Yes, order form. And then when the goods arrive and it's been checked, I guess that's when she enters it and then it's in to the inventory. Okay, is this order form online in the portal of the vendor or? Excel. Excel, okay. So this is an Excel file we send to the vendor and then that basically is our order sent to the email and then the vendor sends us the bill? There's still back and forth there in between. Ah, we na pa yung negosyo pa yung back and forth. When we order, that's when they send the best before date. So we revise from there. We'll remove this, we'll add this. Then we send a revised order form. And then when that's final, confirm that. We say okay na on email. That's when they make the official. Invoice from Australia. And that's what gets sent to accounting. Name mo Ma'am [unclear]? Okay, to process the payment. It will either be coming from me or [unclear]. Payment instruction. We confirm na nga. That's the final order that we raise. I'm also in the loop because the one who sends the final report, that's why she sends.
+
+Speaker four: A PDF file of the invoice for everything ordered that I said. Then she puts there also, there's an additional airway bill and then if there were some charges that were not given to us before they included in the summary and if we have credit box like if you report damage damages, we import them So they refund us for that. Dito lang mo, reflect sa bill. It's a summary. It's just an email. No but even the returned items there's credit note. Because in their system there they have to issue credit note. So they attach those receipts or invoices or credit notes.
+
+Speaker one: So emails back and forth. Okay. What's the. Currently in that process that we just described, what's the pain there? Especially sa operation and going to accounting. Wala ra no? Siguro the gap will be that the communication is not visible to Maam [unclear] or you.
+
+Speaker four: No. We're always looked in. Or nakasisi sa email. Yes.
+
+Speaker one: Okay, nakasisi si email. Alright.
+
+Speaker three: Even when it departs or whatnot. [unclear].
+
+Speaker one: The other thing I'd like to capture at that point is the dollar exchange because we changed to US then to Aussie, Australian dollars so there's two exchanges.
+
+Speaker four: So if we go for this batch of goods, we purchase it at this rate. So I don't know, when it goes into Odoo, you'll have a cost price different to say the last batch. Sir, there's a double conversion? Yeah. Why is that? We have to buy Australian straight from Peso. So you have to. Yes, yes, yes.
+
+Speaker three: Yeah, but starting this year, the amount that [unclear] as payment for the purchases [unclear] USD amount [unclear] buying rate. So what is captured there is [unclear]. Like the last one, it was [unclear]. Okay. What's the process when purchasing US dollars? There's two options. First option is we already have the dollars and it gets converted straight to [unclear]. But even if we already have them, we still have to buy again at a later date to pay back those dollars. So that's one. The second one which is more common is buying the dollars outright on that day. I'm converting it to a [unclear]. Who does this right now? I usually buy the dollars. When it's there, I coordinate and get [unclear] for the conversion from USD to AUD because I also am the one who sends the. I-prepare the. TT form.
+
+Speaker one: How is this currently being recorded in the. Is this in QuickBooks also? Yeah. So once the account is actually debited, like I said, I print. I give it to [unclear] that this is the amount that was debited from [unclear] for the purchases and I gave her the buying rate of those dollars. Okay. [unclear] then enters this into the QuickBooks? Yes. Okay.
+
+Speaker three: Because in the bus. She would take it up based on how do you call that? Indicative rates. Indicative rate, okay. So now it's actual purchase price. And then from there, like in the last I'm able to compute effectively based on how much the [unclear] rate is for those purchasers.
+
+Speaker one: Alright. But this happens Even without the purchase transaction, right? This is something we regularly do.
+
+Speaker three: No, let's say. Well, the thing is actually purchasing the dollars move might not happen when the order is in.
+
+Speaker one: Sometimes it happens pre-order, sometimes it's after the month. So when the rate is good, you know why. It varies. It's not specific to when the P.O. comes that we purchased. It might be too late then. It might have already bought ahead of time at a better rate or we might be buying last minute at a lousy rate. So there's no. It's opportunistic. You have to speculate against the market.
+
+Speaker four: Okay, so we have also a foreign exchange component in this. And [unclear].
+
+Speaker one: So is it safe to assume that we have the exchange rates, losses and gains recorded po? Well, we don't. We know when we gain, we know when we lose but we don't have a file that you know where we're recording it. There's no FX gains loss chart of accounts. I have a file but it's not really a proper. In Odoo you have to have it because it's built in whenever you transact with other currencies. It detects the variants and then we have to set up a. How does it detect the variants? Based on what? Based on. Okay, you have two options. You either set it to the system to subscribe to the exchange rates, there's a service or we put it there. We feed the exchange rates ourselves. Yes. I think for you, what's best is. The one that's actual, at ito yung inyo ang yung. Okay. Okay. So sa akin, let's say, you know, an order, let's see, example, 100,000. Yes. Makapalit ka ug 50,000 at this rate, makapalit kang 50,000 on another rate. So even in one order, there could be two rates.
+
+Speaker four: Correct. It changes by the second. Yes. Yeah, so I get the average. Okay. Okay, so right now, it's averaged? Well, we haven't really done charges. Okay.
+
+Speaker one: So we're ready. So [unclear] received, the POs are matched. So, there's no dedicated step for approving POs for us because there's negotiations and arrangements when you know? Well, there is because [unclear] reviews it and then he sends it to me to say okay this is the number of kits we're ordering. I might have some input saying don't order too much of that flavor and then Once that's finalized, I approve it then it goes off to. So that's essentially I guess the [unclear] stops there.
+
+Speaker three: Approval. Yeah. And that's when [unclear] is. We check the. Australia to give us the best before dates of the items they chose. Okay, so. So if [unclear] communicates to [unclear] that this one is too near or you know what I mean? There's not enough shelf life. It's not that low. So either they eliminate that flavor or they lessen.
+
+Speaker one: Who provides the trigger? That we need to purchase which department most like operations operations right so yeah like they have the aging report so from there we can see how you know each kit each labor is moving so then they start you know I don't know how frequent you do with us the aging yeah I mean they update it regularly but you know to trigger a next the next order about So we have maybe a minimum.
+
+Speaker three: No, but in your spreadsheet you can tell. Do you have like how many months we have left? We hit like six months. We're red alert. We can actually pick a number for that. But amongst us when we look at the aging and we see already multiple at six months We're triggered. We need to order.
+
+Speaker one: Okay, so we can set a number to that. Okay, our safety stocks level is six months more or less. And then if the quantity is below that for the range of six months, then that's a triggering. It shouldn't be because you're not making it. Alright, so the six month is a [unclear] alert. Because it takes about six months for the replenishment from the time you're communicating what flavors are called up.
+
+Speaker four: It used to be about three months but now because of shipping, it's taking longer. And even them themselves in Australia, it takes them longer to consolidate the order. One month. It's now taking about six months more or less. Ah, okay. So we should have like six months worth of stock that we ordered so that by the time that gets here hopefully that gets replenished. Okay. How often do we review? Regularly. So we had. When was the last order? August or September? When did it arrive? September. September. So now we're in communications for the next order.
+
+Speaker one: We have a weekly operations meeting and we look at aging every Monday. Sir, may I see what's in the aging report? Okay. So that's the trigger. So that is the trigger. Then, dihan na din magsugod ang coordination ni [unclear]. Okay. Eight months, seven months, eight months. Okay, start your order na. So we can't echo inside the mic na. Si [unclear] is. Pariyah ng alert level. Yes, yes. So muna, start. Six months. But leading up to that, we're already starting the order. Pero six months is the last na dito. Dapat di tamu-abot di ha? Di tamu-about di ha? Okay, siya ko na na. So very tight na kaayo. So when the bills are in, time to process the payment Do we have like a control when that payment has to go out or some sort of control? What payment are you. Payment to the supplier from Australia? One day bill after giving seven days Okay so it's good as That's it?
+
+Speaker three: You received the bill? No, we paid. For other suppliers? Local suppliers? No, no. We have 30 days. It's not all 30 days. Some are 15, some are 30, some are seven.
+
+Speaker two: It depends.
+
+Speaker four: So when [unclear] orders, there's supposed to be a PO that I approve and then it sent to the supplier. Then the supplier delivers and those that we have credit to, the invoices are given to [unclear]. And based on our credit terms, she prepares the check or the fund transfer as I have [unclear]. And then the checks are given to me and I choose what I want to pay first depending on my cash flow. And I know which. Suppliers are not critical about the credit terms. So I know which ones to prioritize. Okay, so.
+
+Speaker one: For local suppliers, vendor bills are entered. We know the terms you review ma'am or prioritize.
+
+Speaker four: So she prepares the check based on the number of [unclear] terms and then she puts the checks on my table. And what I want to pay first, I sign and leave it back to her for accounting for release. And then little by little, I.
+
+Speaker one: Right, understood. So, ikaw mag-purchase na nag-bill, ma'am, prepare the checks at tulim mo ma'am prioritize. Then, sign checks. Balik sa Iaha for releasing. Yeah, when it's picked up, normally just do releases every Friday. Okay, so now this is the aging report. So, this tab shows us the summary. So here, naka-alphabetical order niya itong mga flavors with the lot numbers and the best before. This is what we have on hand. This tab is the aging. So, all of the receipts come from our encoded direct. Sa mga receiving. So the last one we received September 8th was from Australia. So another way, we received 15 boxes of bubblegum flavor under this lot number with this best before date, [unclear]. We received 49 boxes and so on and so forth. Issuances are included here. So this is where patong kahapon si [unclear] when he gets the packing slip, he looks at it. The [unclear] determines kung sa i-release first and then di rin na niya i-kuha nga. For this particular order, like for example what was delivered Monday to Ayala October 26th Monday reference number this is the stock transfer form 6550 Ang order ni Ayala was given sugar free under lot number 358 [unclear], lot number [unclear] and so on and so forth that gets summarized here and then total beginning plus receiving issuance ending and then whatever is ending that gets picked up and summarized here So ito ang aging. So this will tell us, ordered na po ni [unclear] whereas here is alphabetical kani, naka-sort na ni siya based on the age. So we're seeing here that 21 boxes of [unclear] chip [unclear] na siya ang best before date, check quality so [unclear]. Meaning check quality it's beyond best before date na more than six months na siya. If within six months, that's BBD reach so this are kani sila. Critical level and the listener are okay. Stop.
+
+Speaker four: So for example, siya kining chocolate original box of three kits, lot number 34239. It's flagged as critical. [unclear] kay nine na lang siya? Critical because we did one month. Sa siyang best before [unclear]? Kaninga form is more on the best before than the [unclear] level. Okay.
+
+Speaker one: So we have our aging report. How do we capture the inventory valuation right now? Inventory, physical, corporate books. QuickBooks based on the purchase cost Inventory, no? The price recorded on QuickBooks Okay So, it will be about the value of this inventory and to the QuickBooks through the purchase Okay, so you can capture the cost based on a cost, [unclear]. At itong i-compute pila ang value sa inventory na ito as of let's say kung [unclear] nag-count.
+
+Speaker four: Umaw na ang process. The last order we have what you call a price per kit and the computation is done on my end based on how much the actual Amounts we spent in [unclear] Then we take into consideration also the [unclear] fees, broker's fees, shipping fee And then it's a spreadsheet also And then number of kits [unclear] deluxe The exchange rates we pay it at Which is how much? 44 I think the last time right? Yeah And then so we come up with a price per kit for the standard [unclear].
+
+Speaker one: This is done manually, the price per kit? Yeah. So we can't really use directly the cost from QuickBooks based on purchase as the value for the inventory? No. Indirect costs.
+
+Speaker three: Indirect cost like [unclear] that's big. Brokers pay, [unclear], business and commission.
+
+Speaker four: Okay. So it's done manually. So technically our cost price is almost like a. How can you say it's just average? Like it's not really the exact same picture. Yeah because we also add, aside from that, we add the milk is not yet inclusive. Yes, local milk. So we also, then based on that. We top it off a margin so that Affogato also earns a margin of 20%. So when we sell it to the stores, there's a 20% margin. So when they pay us, yeah, so we're earning 20% per kit. Okay. That's to cover our head office costs. How did we validate the 20%? It's embedded in the. It's enough to cover head office. It's not. This is just a number we picked in the very beginning that we've stuck with until now, but it's probably not enough.
+
+Speaker one: It actually maybe should go up. It should, yeah. So that its head office is always covered. Okay. But we also can't go up too high. And the store can't afford it.
+
+Speaker four: So I guess it's a happy medium. It's done if you do that, if you don't. The head office earns but the branches lose. Their income will also go down if you charge them higher.
+
+Speaker one: Alright so for the record we have a 20% margin when we sell to stores but we have no validation, confirmation that 20% really is covering the cost we have here. Agreeing? Alright. And plus the inventory value which by the way also translates to cost of goods sold later on kay part man siya na. We also don't have exact picture kay affected man. Taghahan man siya ang indirect na mga component. Like plating, you know, customs So, upan pa Which by the way Odoo has also a feature for But I should tell you It captures maybe around 70-80% of the cost The indirect cost The other 20 we need to provide it The form we're using is the form which was.
+
+Speaker four: So it has all the formulas there and everything. All we need to do is input.
+
+Speaker one: I'd like to see this form later, [unclear]. Do you have a copy? No. How do you calculate the cost?
+
+Speaker four: Landed cost. I-search na kang nansi na ito. No, that's from her one. It's from me because it's straight already to the new one and from her two. The one when I asked approval that these are the suggested new one.
+
+Speaker one: So during month end on the preparation of the P&L, this kating cost sa mga product?
+
+Speaker four: Compute ton ni. The inventory sheet that they filled up already has everything embedded. The cost per kit is there, the formula. They're supposed to just put in the quantities. They're not supposed to be around it. Quantities? Ang output na ito ma'am inventory value na dahil? Yes. That's plugged into the. QuickBooks. Excel. Excel. It's sent by the Gmail. Google Sheet, di ba?
+
+Speaker one: May I also have a copy of this? Alright. So how. Alright. This is the one?
+
+Speaker four: Yup. Yes. See, because we received the shipment here. Is that the scroll part?
+
+Speaker three: Okay. So direct, indirect. Okay. That's Australia. This highlighted means we're supposed to unlock. These two come from Australia. They already have the figures there, okay? And then this one will be changed because this is a number of kits, so forth and so on. And then I just plug in what I need to plug in. All the formulas are all there. And then here I have here so that they see our exchange rate is up [unclear]. Local, so these customs, other local charges, [unclear] is the shipping, [unclear]. So in this is the indirect cost that's there.
+
+Speaker one: So.
+
+Speaker three: It comes out now. Go to the formula please, [unclear]. It's telling us the [unclear] is here. So these are the landed costs in Australian dollars.
+
+Speaker four: And then we convert that to Then I go down here, yeah. So we know that [unclear] based on. Is the quantity, what was that? Is it a credit quantity or.? Yeah. And then down the line, this is our purchase of the equivalent conversion of AUD. Dollar. 60. That's the average and I go down there [unclear]. The milk and then 20% So this is the cost now for standard And that's the cost of our deluxe to the stores And then this data is also used by Ma'am [unclear]? No No Wala No, then we put those numbers in the QuickBooks for the cost For the cost Yeah So this one was already part of the cost that [unclear] already knows about See, this is how much we pay in Philippine pesos. This is actual. This is the actual dollar times our buying rate. So this is. Can you highlight [unclear]?
+
+Speaker two: It's Forex. Forex rate. So then once you get the cost, QuickBooks is updated mga products dito based on this.
+
+Speaker three: Ang cost niya dito. We give bros this one. This one. And she puts it in. So that when there's an order, automatic. That's the price. That's where we do valuation that's based on those prices. Or based on the 2,269. The items and the bills. We have the 20%. Isn't that? Right?
+
+Speaker two: It's like our cost price is that. Then our selling price is that to the stores. Selling price is 2,723.00 for the standard kit but ang cost is 2,269.52? Yes, correct. That already includes all the indirect costs? Yes, including the milk also.
+
+Speaker one: Then that information goes to [unclear] para sa iyang order Para kayo na siya na bawang unit cost for each And then from there, makuha Paano ito ang total? Moana lang, bayranan more or less.
+
+Speaker four: Bayranan? Bayran sa store. Ah, sa stores. Yeah, yeah. That's the price they use. Yes, that's the price. Okay. I mean if we had 20 stores. Sa ina.
+
+Speaker one: So basically our inventory valuation computation would magamit aning procedure, tama ba? Then based off on the value na magawadya. For example, nang isa standard 2,269.52 multiply that with the inventory that we have, then that's the inventory value. Okay. How fast can we compute this? What's that lead time when we want to know? When I have all the information. When you get exchange rates. Because that's the last step naman, about exchange rates.
+
+Speaker three: The order is already there. You already know. The Australian value, etc. Then once you have the exchange rates and then you change all input that there, then you have all for it. So no, but actually I really need to wait for the physical to arrive. You can already, but to be accurate. There's no indirect cost yet. This won't be available. All of these are actual. No, these are all actual figures.
+
+Speaker four: I'm just saying the AUD direct and indirect but we know that. Yeah, this one and this is based on this so these are all actuals.
+
+Speaker three: So I have to wait. So I can put this part in already. Once I pay, I know now. But I cannot determine the cost yet.
+
+Speaker four: Until it's landed. Until it is landed and all the [unclear] come in. It's all paid. So at least, this is correct na. The direct, indirect, other local charges. So like now, if the shipment arrived. And I have to wait like two weeks because you'll get some bill right away, some don't. You pretty much know it's always going to be around say for a 20 footer it's going to be about 40 footer but of course the actual you have to wait.
+
+Speaker one: Okay so that's the procedure for inventory valuation. So, kanyang value is not yet in use. This is the first order that we got in more than a year. Last year, well, under order there. Ang current na value nagigamit sa form sa store is a different value. Ang existing, ang old price pa. So, dili pa updated. We're not actually leasing stocks that we're receiving. September, yun? Yeah, because we're still using. Before we used to order 40-footers. Then we found that we're not consuming fast enough. So that's why we have a lot of those best before me. Negative. So now we've changed it to 20-footers, smaller containers, but more regularly. And so we haven't released the ones that arrived in September. Because we're still consuming what arrived at the first time So that's why the price is still, the old price is based on the shipment received last But yeah soon, very soon we're gonna start using that new price but we're hoping when we migrate not to old, it doesn't mean implement all this Understood Okay so next question is In our warehouse, we have.
+
+Speaker four: It's the lot number of the box that we record. Look [unclear]. Look there. Lot number blah blah blah look there. Lot numbers.
+
+Speaker one: So, our warehouse. Our warehouse sir is only tracking the lot number of the box. The main box. They're not tracking the lot numbers of the individual components inside. However, their operation, the way they actually do things dictates that they must also track the components individually because once the item is delivered, they open it up Then, let's say for example, for the. Saan na siya? Itong manga. For the fruits, they have to take it out of the box and put it in a freezer. And then the other items, they put it somewhere else. But they. The fruits or flavors, they came from this same box. Now, during delivery, this patch, so if they release this box, they have together. It's a hit or miss. They can get. Maybe it's already different. Not the one that came with that particular box. Okay, now my question is if warehouse is unable to trace the lot number how can accounting but maybe this is not too applicable for you because you only order within six months so products are not coming in That fast. That fast that there are items There are the same items with different lot numbers that has different prices, cost price. Wala na? No. Wala no? Not yet. Like you said. This is the first order.
+
+Speaker three: In the warehouse, yes. But release to the stores, no. Right? The warehouse, yes We have two separate shipments. Yeah. [unclear].
+
+Speaker four: Yan ang lahat na price. But this is the first, kanyang September na to, this is the first order since 2024. A different price.
+
+Speaker three: But my, I know where you're going. At some point, you will have one flavor from the new pricing while you have 31 that are still of the old to complete 32. So at some point, you'll have two pricing elements for the inventory here [unclear]. No, at the store because we're gonna charge them only one price. Yeah, our price is not gonna be dynamic based on how this gift was ordered at that price. So I would like to think, eventually, I'll ask you guys, okay, they're saying we only have 10% left of the old price and the rest are all new, the new shipment. Can we just charge everything? That's where I was going because if you think about it now, you have two. You'll be tempted, you have to pull from the new. So you'd have two price ranges at the store level which you can't do. That's right. So at that point, you'll have to pick a threshold na pull. Now where you go? Okay, now we go new pricing completely even if it's old stock.
+
+Speaker one: Yeah, so for now like I think we're gonna be okay for the rest of the year. So at the start of the year, we're gonna start using the new pricing. Anyway, once we do that. There was a time also we didn't increase prices to the stores even.
+
+Speaker three: Remember I talked to you guys and said that the prices of the milk changed drastically. And you told me just to wait for the new one before we change price because you know what always should be changing. So we lost a bit there.
+
+Speaker four: We were selling at old price, even if there was a significant increase in the cost of the milk. Because milk gets replenished regularly. So the price change is there. We didn't want to increase prices right away because we just increased prices recently. Is the price very variable? No, no. It's a few years before it was gone. But I think where we're coming from is we just increased the prices in the stores. And then we got increased food with our milk. We can't increase the store. We can constantly change prices. Especially since we're monitoring the COGS manually, instead of relying on what QuickBooks says for COGS is. You know, we're doing that manually para we can really see how the stores are also using the product. They're wasting it and yeah. So making sure our margins are intact.
+
+Speaker two: Yeah, okay.
+
+Speaker one: But for this year, our pricing stays the same until December 31. Yeah, we have really changed the pricing this year. No, not yet. We should be using the old, that's why. So January, we're due to increase prices at the store level as well as increase our pricing from the warehouse. This is an example of that scenario. Original chocolate, we still have nine boxes of the old. And then we have 57 boxes of the new. We received 80 boxes, na tayo di issue 23 na itong ipadala sa Manila as their stock. But that's the new stock na, [unclear]. Yes, new stock at itong ipadaan nila.
+
+Speaker four: So but they're paying old stock prices. So, [unclear]. Mas mahal na ang 57. Mahal.
+
+Speaker one: There's a way in Odoo by the way for the price to dynamically change based on the cost price. So for example when the last batch of 4239 is [unclear] is depleted [unclear] lot number [unclear], then automatic mo-switch siya sa price. For that kit only. We can attach the price to the lot number. More or less? More or less? Yes. But going back to my question with the components, it would be since the price will now be attached to the lot number, then we might need to implement the lot number to use the lot number on each of [unclear]. Si [unclear], grabe yung memory So, I mean you know he has to remember that this box ang sole aliniya na flavor is this lot number and then ka-daggan box and then plus napag-indusyay itong naka-allocate niya. So yeah, I think that's where we're going because as I've already said it also affects how accounting will be able to derive the inventory value Because right now, ang inventory value [unclear] ay [unclear] ba na nga price? Di ba no? So I think sa average ba or sa itong gamit? Ang intent to remove good is si [unclear] lang maghatag na po sa [unclear]. Sa [unclear]? Okay. [unclear]. Even that's rub. Hindi ka na accurate pa. [unclear] because that's in QuickBooks and that will contain. Other items. Although majority of it, mag-capture na siya. But there are other items.
+
+Speaker four: In Odoo you will see what the value for the nine items and the 57. They're not just. Pero I should tell you, kinangla detalyado po ta inig suit sa system. We have to be detailed. The added benefit also is that if there's something wrong with that particular lot number, we can trace it back to the lot number. Yes, that component.
+
+Speaker one: Right now you can claim from your vendor for credit notes based on physical nga makita ninyo. Pero wala pa takasway o claim na tumul ka na yung problema. Mayroon ay reklam mo. Wala pa? Wala pa. What with a particular deal? Oh, there's a problem. Yeah, we've had that problem. You have that problem? Okay. For a particular lot number that has been [unclear] date. Or even the gelato maker, when they produce it, they'll see something's wrong. Then we report that to Australia, that lot number, and then they can trace it. And then that's when they give us credit. With this, kanasya karon, [unclear] na siya hit or miss. Maka-identify [unclear]. Because it came with his lot number. Dito sa store, hindi sila ka-identify. Hindi naman report. But now, with the lot number we can name, kayo ba naman [unclear] maunay ang lot number, lalim na siya glaming.
+
+Speaker four: Then makaklaim dahil ka. Actually yes. Using very outdated [unclear] reporting, the last time we.
+
+Speaker one: Reported an issue sa quality issue We were able to report based on that numbers and we were able to trace which store it was based on that number. See, that's really important. Because sometimes, in a kit, it has a lot of lot of lot. Correct. Actually, if you're in a kit it has a little bit. At the time I went there, it has been a lot of lots. And then, there's also. What not talk about? There may be cases that the number of these in [unclear] is better than the best before date. [unclear]. Alright, so we have already covered COGS, inventory valuation. What else, Kim? Did we miss something? So an accounting value what the warehouse can do is we've covered that. Okay, next question is, how often is bank and cash reconciled? Do we do bank reconciliation?
+
+Speaker four: It's [unclear] and [unclear] So cash flow Bank balance Bank recon? Every week Bank balance Bank balance Okay, what do you think? Sorry Sorry Sorry Sorry Later, 1:30 p.m., we will be covering. Gamay na lang yun!
+
+Speaker one: Gamay [unclear]! Bank recon na lang!
+
+Speaker four: Bank recon, month-end closing timeline, what's the bottleneck? And then, what report goes to owners?
+
+Speaker one: Those are the three questions. Thank you so much!
+
+Speaker two: Thank you! Okay, thank you! Thank you. Who say discussion of map? Actually, of my internal, the morning game, we'll be mapping, preparing the station for it. Thank you. Sir.
+
+Speaker three: Oh, lay down na lang? Okay.
+
+Speaker four: [unclear].
+
+Speaker one: [unclear].
+
+Speaker four: Killjoy na kaayo niyan niya siya. Do you still need the girls this afternoon or they're going to the workstations? The afternoon, [unclear] topics. Bank recon, month and close timeline o kaning. Mga financial reports, how long to build. Kaya na na lang. [unclear]. Mga 15-20 minutes. You sure, huh? Yes. Thank you, ma'am. Sir [unclear]! [unclear]? [unclear]! No break? No, no. Napa mo yung tubig? Napa! Thank you, sir.
+
+Speaker one: Oh yes. Mga ako na lang isa. Kaya marag [unclear]. There's something up.
+
+Speaker four: Ah, okay! [unclear]. Nakamention [unclear] si Sir [unclear]. Iconsider yung mga.
+
+Speaker two: Example sa isa ka kit, dilitan na nandefective.
+
+Speaker one: O, diyan ang katong isa kay iyus pa doon nila, kay ilay baligyan. So, ang sasaw nga nila po ang costing? Malangin akong ganyan nga, itrack sila differently. Right now they're tracking it just one box.
+
+Speaker three: Pero diba sa costing nila kay per kit na.
+
+Speaker four: So, ang soal nila pag-attribute ang cost. Ang matotal sa isa kama box. No? Saan pag-cost ang individual component? Ang milk, which is also considered nilang a component sa kit, ang mag-purchase nila locally na ay cost. Diba? Saan nila ay divide? Like ang isa ka kit na ay six ka component na divided by six. Ang katong isa ka po ang katong isang kapot yan na defective yung kao ba niya siya kayo okay? Lahe ko sa o cost di kaan sa Australia kayo lahe biya o lahe lahe 
+
+Speaker one: I-review ni mo ang landed cost sa Odoo Oh katong lang sa [unclear] Kaya ma-affect mo na sa cost of goods sold? Oh, kailangan yung pinakagalitay na nga kaagita eh? Grabe o Broccoli! Ah hindi pa nato kaya magigana Broccoli ba na eh? Kaya ito mo siya. Grapes! [unclear].
+
+Speaker four: [unclear]. Ay, let's pray. Father God, [unclear].
+
+Speaker one: [unclear] food [unclear] Lord. Thank you, Lord, [unclear]. Thank you, Lord, for the blessing. In Jesus' name, amen. I sing praises to your name.
+
+Speaker three: Eh mag. Oh, di ko.
+
+Speaker four: Mag-google with it ka every Tuesday. Google Meet? Every Tuesday. Midweek? Midweek sa meeting. I think, midweek.
+
+Speaker one: I meeting sa. [unclear]. Oh! Pero nga hapun. Pero nga. Pero ngan hapun, wala ka Google Meet? Okay, wala biya tak ka ulit ang sayo.
+
+Speaker four: Ay, sorry. Karon pa. Lah? Sorry mandi mga hapuno. Ah, Tuesday nga hapo. Tuesday nga? Tuesday nga. Walak tak pala Google Meet. [unclear].
+
+Speaker one: Ang meeting ko sa [unclear].
+
+Speaker two: Pero kung na ka mag-Google Meet, nagyad ka? Oo, Google Meet. Pero magsukod mo 6:00 mauna.
+
+Speaker one: Mag-alag? Kama nga tulang.
+
+Speaker three: Anong.
+
+Speaker one: Pinisipan ba ay? Ang kitana juda daan. Kitana daan eh. Sige mali tayo. Kasi.
+
+Speaker three: Mag-alagay sa wala. Mito ang owner yun o? So ang katong duha. Katong laki. [unclear] to sila. Dahil yun. Kasi ma'am [unclear]. 
+
+Speaker one: [unclear]. This is a struggle. [unclear]. The struggle is real. [unclear].
+
+Speaker three: [unclear].
+
+Speaker two: Yeah, tomorrow [unclear] office [unclear]. So mag-use [unclear] sila sa Alliance POS.
