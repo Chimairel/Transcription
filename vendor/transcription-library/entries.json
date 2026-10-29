@@ -1,0 +1,2696 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "id": "w0001",
+      "preferred": "ug",
+      "variants": [
+        "og",
+        "o"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0002",
+      "preferred": "kaayo",
+      "variants": [
+        "kayo",
+        "kaau"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0003",
+      "preferred": "jud",
+      "variants": [
+        "gyud",
+        "gud"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0004",
+      "preferred": "pud",
+      "variants": [
+        "pod",
+        "po"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0005",
+      "preferred": "diri",
+      "variants": [
+        "dire"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0006",
+      "preferred": "karon",
+      "variants": [
+        "karun"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0007",
+      "preferred": "kuan",
+      "variants": [
+        "kwan"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0008",
+      "preferred": "naa",
+      "variants": [
+        "na-a",
+        "na'a"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0009",
+      "preferred": "unsay",
+      "variants": [
+        "unsa'y"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0010",
+      "preferred": "unya",
+      "variants": [
+        "nya",
+        "unja"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0011",
+      "preferred": "yung",
+      "variants": [
+        "'yung"
+      ],
+      "language": "Tagalog",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0012",
+      "preferred": "di",
+      "variants": [
+        "'di"
+      ],
+      "language": "Tagalog",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0013",
+      "preferred": "wag",
+      "variants": [
+        "'wag"
+      ],
+      "language": "Tagalog",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0014",
+      "preferred": "kasi",
+      "variants": [
+        "kase"
+      ],
+      "language": "Tagalog",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0015",
+      "preferred": "sige",
+      "variants": [
+        "sigi"
+      ],
+      "language": "Tagalog",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0016",
+      "preferred": "ganun",
+      "variants": [
+        "ganon"
+      ],
+      "language": "Tagalog",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0017",
+      "preferred": "lang",
+      "variants": [
+        "lng"
+      ],
+      "language": "Tagalog",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0018",
+      "preferred": "naman",
+      "variants": [
+        "nmn"
+      ],
+      "language": "Tagalog",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0019",
+      "preferred": "din",
+      "variants": [
+        "dn"
+      ],
+      "language": "Tagalog",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0020",
+      "preferred": "nga",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0021",
+      "preferred": "na",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0022",
+      "preferred": "ng",
+      "variants": [],
+      "language": "Tagalog",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0024",
+      "preferred": "tan-awon",
+      "variants": [
+        "tan-awn"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0025",
+      "preferred": "juy",
+      "variants": [
+        "gyuy"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0026",
+      "preferred": "mo-ingon",
+      "variants": [
+        "moingon",
+        "mo ingon"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0027",
+      "preferred": "mag-himo",
+      "variants": [
+        "maghimo",
+        "mag himo"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0028",
+      "preferred": "ka-hibaw",
+      "variants": [
+        "kahibaw",
+        "kabaw"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0029",
+      "preferred": "maka-hibaw",
+      "variants": [
+        "makahibaw",
+        "makabaw"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0030",
+      "preferred": "resulta",
+      "variants": [
+        "risulta"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0031",
+      "preferred": "trabahoon",
+      "variants": [
+        "trabahuon"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0032",
+      "preferred": "buhaton",
+      "variants": [
+        "bahaton"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0033",
+      "preferred": "mangutana",
+      "variants": [
+        "magutana"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0034",
+      "preferred": "tika",
+      "variants": [
+        "tikaw"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0035",
+      "preferred": "kabuok",
+      "variants": [
+        "ka buok",
+        "ka-buok"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0036",
+      "preferred": "bag-o",
+      "variants": [
+        "bago"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0037",
+      "preferred": "bag-ong",
+      "variants": [
+        "bagong"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0038",
+      "preferred": "na pud",
+      "variants": [
+        "napud"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0039",
+      "preferred": "ra pud",
+      "variants": [
+        "rapud"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0040",
+      "preferred": "na lang",
+      "variants": [
+        "nalang"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0041",
+      "preferred": "pa ka",
+      "variants": [
+        "paka"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0042",
+      "preferred": "na kay",
+      "variants": [
+        "nakay"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0043",
+      "preferred": "ra man",
+      "variants": [
+        "raman"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0044",
+      "preferred": "na man",
+      "variants": [
+        "naman"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0045",
+      "preferred": "diyan",
+      "variants": [
+        "dyan",
+        "jan"
+      ],
+      "language": "Tagalog",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0046",
+      "preferred": "naa na",
+      "variants": [
+        "naana"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0047",
+      "preferred": "na na",
+      "variants": [
+        "nana"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0048",
+      "preferred": "na ka",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0049",
+      "preferred": "gi-trabaho",
+      "variants": [
+        "gitrabaho"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0050",
+      "preferred": "gi-himo",
+      "variants": [
+        "gihimo"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0051",
+      "preferred": "gi-himoan",
+      "variants": [
+        "gihimoan"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0052",
+      "preferred": "gi-kuha",
+      "variants": [
+        "gikuha"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0053",
+      "preferred": "gi-palit",
+      "variants": [
+        "gipalit"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0054",
+      "preferred": "gi-suwat",
+      "variants": [
+        "gisuwat"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0055",
+      "preferred": "gi-tawag",
+      "variants": [
+        "gitawag"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0056",
+      "preferred": "gi-gamit",
+      "variants": [
+        "gigamit"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0057",
+      "preferred": "gihapon",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0058",
+      "preferred": "ginansya",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0059",
+      "preferred": "gikan",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0060",
+      "preferred": "trabaho",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0061",
+      "preferred": "kwarta",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0062",
+      "preferred": "eskwela",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0063",
+      "preferred": "mesa",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0064",
+      "preferred": "kamao",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0065",
+      "preferred": "parehas",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0066",
+      "preferred": "uba-ubay",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0067",
+      "preferred": "plastar",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0068",
+      "preferred": "paspas",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0069",
+      "preferred": "dako",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0070",
+      "preferred": "posible",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0071",
+      "preferred": "printa",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0072",
+      "preferred": "gi-check",
+      "variants": [
+        "gicheck",
+        "gi check"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0073",
+      "preferred": "i-check",
+      "variants": [
+        "icheck",
+        "e-check",
+        "e check",
+        "i check"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0074",
+      "preferred": "gina-check",
+      "variants": [
+        "ginacheck",
+        "gina check"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0075",
+      "preferred": "i-post",
+      "variants": [
+        "ipost"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0076",
+      "preferred": "mag-meeting",
+      "variants": [
+        "magmeeting",
+        "mag meeting"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0077",
+      "preferred": "na-approve",
+      "variants": [
+        "naapprove",
+        "na approve"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0078",
+      "preferred": "i-deploy",
+      "variants": [
+        "ideploy",
+        "e-deploy"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0079",
+      "preferred": "mo-handle",
+      "variants": [
+        "mo handle"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0080",
+      "preferred": "ma-achieve",
+      "variants": [
+        "ma achieve"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0081",
+      "preferred": "mo-follow up",
+      "variants": [
+        "mo-follow-up"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0082",
+      "preferred": "mo-step in",
+      "variants": [
+        "mo-step-in"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0083",
+      "preferred": "naka-tie up",
+      "variants": [
+        "naka-tie-up"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0084",
+      "preferred": "estimate-tan",
+      "variants": [
+        "estimatetan"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0085",
+      "preferred": "schedule-lon",
+      "variants": [
+        "schedulelon"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0086",
+      "preferred": "study-hi",
+      "variants": [
+        "studyhi"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0087",
+      "preferred": "ma-agree-han",
+      "variants": [
+        "ma-agreehan"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0088",
+      "preferred": "fill-in-an",
+      "variants": [
+        "fill-inan"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0089",
+      "preferred": "as-is",
+      "variants": [
+        "as is"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0090",
+      "preferred": "to-be",
+      "variants": [],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0091",
+      "preferred": "flowchart",
+      "variants": [
+        "flow chart"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0092",
+      "preferred": "kickoff",
+      "variants": [
+        "kick-off"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0093",
+      "preferred": "kick off",
+      "variants": [],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0094",
+      "preferred": "setup",
+      "variants": [],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0095",
+      "preferred": "set up",
+      "variants": [],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0096",
+      "preferred": "client-facing",
+      "variants": [
+        "client facing"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0097",
+      "preferred": "e-learning",
+      "variants": [],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0098",
+      "preferred": "mouse",
+      "variants": [],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0099",
+      "preferred": "I'm",
+      "variants": [],
+      "language": "English",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0100",
+      "preferred": "don't",
+      "variants": [
+        "dont"
+      ],
+      "language": "English",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0101",
+      "preferred": "doesn't",
+      "variants": [
+        "doesnt"
+      ],
+      "language": "English",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0102",
+      "preferred": "won't",
+      "variants": [
+        "wont"
+      ],
+      "language": "English",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0103",
+      "preferred": "that's",
+      "variants": [
+        "thats"
+      ],
+      "language": "English",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0104",
+      "preferred": "it's",
+      "variants": [],
+      "language": "English",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0105",
+      "preferred": "Rudy's",
+      "variants": [],
+      "language": "English",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0106",
+      "preferred": "Where'd",
+      "variants": [],
+      "language": "English",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0107",
+      "preferred": "fulfill",
+      "variants": [
+        "fullfil"
+      ],
+      "language": "English",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0108",
+      "preferred": "way",
+      "variants": [
+        "waty"
+      ],
+      "language": "English / Bisaya",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0109",
+      "preferred": "flow",
+      "variants": [
+        "fllow"
+      ],
+      "language": "English",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0110",
+      "preferred": "a lot",
+      "variants": [
+        "alot"
+      ],
+      "language": "English",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0111",
+      "preferred": "key point of contact",
+      "variants": [
+        "keypoint of contact"
+      ],
+      "language": "English",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0112",
+      "preferred": "salesperson",
+      "variants": [
+        "sales person"
+      ],
+      "language": "English",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0113",
+      "preferred": "speed up",
+      "variants": [],
+      "language": "English",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0114",
+      "preferred": "fill in",
+      "variants": [],
+      "language": "English",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0115",
+      "preferred": "setups",
+      "variants": [],
+      "language": "English",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0116",
+      "preferred": "log in",
+      "variants": [],
+      "language": "English",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0117",
+      "preferred": "login",
+      "variants": [],
+      "language": "English",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0118",
+      "preferred": "hands-on",
+      "variants": [],
+      "language": "English",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0119",
+      "preferred": "buy-in",
+      "variants": [],
+      "language": "English",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0120",
+      "preferred": "on-site",
+      "variants": [],
+      "language": "English",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0121",
+      "preferred": "Odoo",
+      "variants": [],
+      "language": "Proper term",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0122",
+      "preferred": "Facebook",
+      "variants": [],
+      "language": "Proper term",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0123",
+      "preferred": "Messenger",
+      "variants": [],
+      "language": "Proper term",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0124",
+      "preferred": "GCash",
+      "variants": [],
+      "language": "Proper term",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0125",
+      "preferred": "Excel",
+      "variants": [],
+      "language": "Proper term",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0126",
+      "preferred": "Inopacan",
+      "variants": [],
+      "language": "Proper term",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0127",
+      "preferred": "Agile Tech",
+      "variants": [],
+      "language": "Proper term",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0163",
+      "preferred": "ma-notice",
+      "variants": [
+        "ma notice"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0164",
+      "preferred": "gi-try-an",
+      "variants": [
+        "gi-tryan",
+        "gi-try-yan"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0165",
+      "preferred": "mo-tender",
+      "variants": [
+        "mo tender"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0166",
+      "preferred": "training-on",
+      "variants": [
+        "trainingon"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0167",
+      "preferred": "na-handle-lan",
+      "variants": [
+        "na handle-lan"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0168",
+      "preferred": "edit-on",
+      "variants": [
+        "editon"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0169",
+      "preferred": "mo-computer",
+      "variants": [
+        "mo computer"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0170",
+      "preferred": "mo-suggest",
+      "variants": [
+        "mo suggest"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0171",
+      "preferred": "mo-decide",
+      "variants": [
+        "mo decide"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0172",
+      "preferred": "mo-oversee",
+      "variants": [
+        "mo oversee"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0173",
+      "preferred": "mo-insert",
+      "variants": [
+        "mo insert"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0174",
+      "preferred": "mo-gather",
+      "variants": [
+        "mo gather"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0175",
+      "preferred": "mo-train",
+      "variants": [
+        "mo train"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0176",
+      "preferred": "gi-budget",
+      "variants": [
+        "gi budget"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0177",
+      "preferred": "pag-study",
+      "variants": [
+        "pag study"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0178",
+      "preferred": "ma-training",
+      "variants": [
+        "ma training"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0179",
+      "preferred": "mag-define",
+      "variants": [
+        "mag define"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0180",
+      "preferred": "ma-meet",
+      "variants": [
+        "ma meet"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0181",
+      "preferred": "mo-learn",
+      "variants": [
+        "mo learn"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0182",
+      "preferred": "mo-Odoo",
+      "variants": [
+        "mo Odoo"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0183",
+      "preferred": "Nag-training",
+      "variants": [
+        "Nag training"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0184",
+      "preferred": "mag-test",
+      "variants": [
+        "mag test"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0185",
+      "preferred": "mo-push",
+      "variants": [
+        "mo push"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0186",
+      "preferred": "mo-take part",
+      "variants": [
+        "mo take part"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0187",
+      "preferred": "mo-commit",
+      "variants": [
+        "mo commit"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0188",
+      "preferred": "mo-customize",
+      "variants": [
+        "mo customize"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0189",
+      "preferred": "mag-upgrade",
+      "variants": [
+        "mag upgrade"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0190",
+      "preferred": "ma-master",
+      "variants": [
+        "ma master"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0191",
+      "preferred": "maka-log in",
+      "variants": [
+        "maka login"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0192",
+      "preferred": "maka-open",
+      "variants": [
+        "maka open"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0193",
+      "preferred": "mo-send",
+      "variants": [
+        "mo send"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0194",
+      "preferred": "maka-sense",
+      "variants": [
+        "maka sense"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0195",
+      "preferred": "na-achieve",
+      "variants": [
+        "na achieve"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0196",
+      "preferred": "Naka-commit",
+      "variants": [
+        "Naka commit"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0197",
+      "preferred": "maka-implement",
+      "variants": [
+        "maka implement"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0198",
+      "preferred": "gi-review",
+      "variants": [
+        "gi review"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0199",
+      "preferred": "ma-review",
+      "variants": [
+        "ma review"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0200",
+      "preferred": "gi-go-live",
+      "variants": [
+        "gi go-live"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0201",
+      "preferred": "mo-drive",
+      "variants": [
+        "mo drive"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0202",
+      "preferred": "exam-on",
+      "variants": [
+        "examon"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0203",
+      "preferred": "Pa-demo-hon",
+      "variants": [
+        "Pa demohon"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0204",
+      "preferred": "gani",
+      "variants": [
+        "ngani"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0205",
+      "preferred": "tinuod",
+      "variants": [
+        "tinood"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0206",
+      "preferred": "tawo",
+      "variants": [
+        "tao"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0207",
+      "preferred": "ingon-ani",
+      "variants": [
+        "ingani",
+        "ingo-ani",
+        "Ing-ani"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0208",
+      "preferred": "na-hibaw",
+      "variants": [
+        "nahibaw"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0209",
+      "preferred": "naka-hibaw",
+      "variants": [
+        "nakahibaw",
+        "nakabaw"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0210",
+      "preferred": "ma-hibaw-an",
+      "variants": [
+        "mahibaw-an"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0211",
+      "preferred": "ka-hibalo",
+      "variants": [
+        "kahibalo"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0212",
+      "preferred": "naka-hibalo",
+      "variants": [
+        "nakahibalo"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0213",
+      "preferred": "puy",
+      "variants": [
+        "poy"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0214",
+      "preferred": "na puy",
+      "variants": [
+        "napuy"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0215",
+      "preferred": "naa puy",
+      "variants": [
+        "napoy"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0216",
+      "preferred": "ra puy",
+      "variants": [
+        "rapuy"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0217",
+      "preferred": "mangayo",
+      "variants": [
+        "mangay"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0218",
+      "preferred": "bun-ugon",
+      "variants": [
+        "bon-ugon"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0219",
+      "preferred": "magka-problema",
+      "variants": [
+        "magkaproblema",
+        "mag-ka-problema"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0220",
+      "preferred": "pagka-train",
+      "variants": [
+        "pagkatrain",
+        "pag-ka-train"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0221",
+      "preferred": "ig",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0222",
+      "preferred": "inig",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0223",
+      "preferred": "ilang",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0224",
+      "preferred": "ilahang",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0225",
+      "preferred": "walay",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0228",
+      "preferred": "imong",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0229",
+      "preferred": "presyo",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0230",
+      "preferred": "dayong",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0231",
+      "preferred": "nagka-rattle-rattle",
+      "variants": [
+        "nagkaratol-ratol",
+        "nagka-ratol-ratol",
+        "nagkarattle-rattle",
+        "nagka rattle-rattle"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0232",
+      "preferred": "Pag-implementation",
+      "variants": [
+        "Pag implementation"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0233",
+      "preferred": "Pag-go-live",
+      "variants": [
+        "Pag go live"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0234",
+      "preferred": "ka-go-live",
+      "variants": [
+        "ka go-live"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0235",
+      "preferred": "mag-project director",
+      "variants": [
+        "mag project director"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0236",
+      "preferred": "tig-follow up",
+      "variants": [
+        "tig follow up"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0237",
+      "preferred": "tig-ensure",
+      "variants": [
+        "tig ensure"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0238",
+      "preferred": "makig-meeting",
+      "variants": [
+        "makig meeting"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0239",
+      "preferred": "naka-standard training",
+      "variants": [
+        "naka standard training"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0240",
+      "preferred": "na-belong",
+      "variants": [
+        "na belong"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0241",
+      "preferred": "pag-training",
+      "variants": [
+        "pag training"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0242",
+      "preferred": "ka-track",
+      "variants": [
+        "ka track"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0243",
+      "preferred": "mo-gamit",
+      "variants": [
+        "mo gamit"
+      ],
+      "language": "Bisaya",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0244",
+      "preferred": "mo-istorya",
+      "variants": [
+        "mo istorya"
+      ],
+      "language": "Bisaya",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0245",
+      "preferred": "mo-suwat",
+      "variants": [
+        "mo suwat"
+      ],
+      "language": "Bisaya",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0246",
+      "preferred": "maka-successfully",
+      "variants": [
+        "maka successfully",
+        "makasuccessfully"
+      ],
+      "language": "Mixed",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0247",
+      "preferred": "mang-resign",
+      "variants": [
+        "mang resign"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0248",
+      "preferred": "naka-per department",
+      "variants": [
+        "naka per department"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0249",
+      "preferred": "pa-hibaw-on",
+      "variants": [
+        "pa hibaw-on"
+      ],
+      "language": "Bisaya",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0250",
+      "preferred": "i-turn over",
+      "variants": [
+        "i-turnover"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0251",
+      "preferred": "sign-off",
+      "variants": [],
+      "language": "English",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0252",
+      "preferred": "go-ahead",
+      "variants": [],
+      "language": "English",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0261",
+      "preferred": "mo-analyze",
+      "variants": [
+        "mo analyze",
+        "moanalyze",
+        "mo-nalyze"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0262",
+      "preferred": "mo-take",
+      "variants": [
+        "mo take",
+        "motake"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0263",
+      "preferred": "ma-tie",
+      "variants": [
+        "ma tie",
+        "matie"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0264",
+      "preferred": "nag-take",
+      "variants": [
+        "nag take",
+        "nagtake"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0265",
+      "preferred": "ni-report",
+      "variants": [
+        "ni report",
+        "nireport"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0266",
+      "preferred": "ma-capture",
+      "variants": [
+        "ma capture",
+        "macapture"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0268",
+      "preferred": "niyang",
+      "variants": [],
+      "language": "Tagalog/Bisaya",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0269",
+      "preferred": "naay",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0270",
+      "preferred": "maubos",
+      "variants": [
+        "maubus"
+      ],
+      "language": "Tagalog/Bisaya",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0271",
+      "preferred": "namang",
+      "variants": [],
+      "language": "Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0272",
+      "preferred": "galing",
+      "variants": [],
+      "language": "Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0273",
+      "preferred": "harang",
+      "variants": [],
+      "language": "Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0274",
+      "preferred": "humana",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0275",
+      "preferred": "balik",
+      "variants": [],
+      "language": "Tagalog/Bisaya",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0276",
+      "preferred": "kang",
+      "variants": [],
+      "language": "Tagalog/Bisaya",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0324",
+      "preferred": "diretso",
+      "variants": [
+        "ditso",
+        "diritso"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0325",
+      "preferred": "ingon-ana",
+      "variants": [
+        "ingana",
+        "ingo-ana"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0326",
+      "preferred": "siyempre",
+      "variants": [
+        "syempre"
+      ],
+      "language": "Tagalog",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0327",
+      "preferred": "mo-gawas",
+      "variants": [
+        "mugawas",
+        "mogawas",
+        "mo gawas"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0328",
+      "preferred": "sige-sige",
+      "variants": [
+        "sige sige",
+        "sige, sige"
+      ],
+      "language": "Tagalog/Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0330",
+      "preferred": "nimo",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0331",
+      "preferred": "ninyo",
+      "variants": [],
+      "language": "Bisaya/Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0332",
+      "preferred": "ganing",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0333",
+      "preferred": "nilag",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0334",
+      "preferred": "try-an",
+      "variants": [
+        "try-yan"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0335",
+      "preferred": "na-reply-an",
+      "variants": [
+        "na-reply-yan"
+      ],
+      "language": "Mixed",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0336",
+      "preferred": "mag-himo-himo",
+      "variants": [
+        "mag himo-himo"
+      ],
+      "language": "Bisaya",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0337",
+      "preferred": "namo",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0359",
+      "preferred": "Outside speaker",
+      "variants": [],
+      "language": "Transcript label",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0362",
+      "preferred": "mo-palit",
+      "variants": [
+        "mupalit",
+        "mopalit",
+        "mu-palit",
+        "mo palit"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0374",
+      "preferred": "sulod",
+      "variants": [
+        "sud",
+        "sod"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0375",
+      "preferred": "mo-sulod",
+      "variants": [
+        "mo-sud",
+        "mo-sod"
+      ],
+      "language": "Bisaya",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0376",
+      "preferred": "ni-sulod",
+      "variants": [
+        "ni-sud",
+        "ni-sod"
+      ],
+      "language": "Bisaya",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0377",
+      "preferred": "nisulod",
+      "variants": [
+        "nisud",
+        "nisod"
+      ],
+      "language": "Bisaya",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0378",
+      "preferred": "gi-pasulod",
+      "variants": [
+        "gi-pasud",
+        "gi-pasod"
+      ],
+      "language": "Bisaya",
+      "status": "reviewed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0380",
+      "preferred": "ron",
+      "variants": [
+        "run"
+      ],
+      "language": "Bisaya",
+      "status": "agreed",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0396",
+      "preferred": "malaman",
+      "variants": [],
+      "language": "Tagalog",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0398",
+      "preferred": "humanon",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    },
+    {
+      "id": "w0399",
+      "preferred": "ubay-ubay",
+      "variants": [],
+      "language": "Bisaya",
+      "status": "protected",
+      "scope": "general",
+      "context": "Reviewed project spelling. Apply only to the same word and language; preserve genuine words with another meaning."
+    }
+  ]
+}

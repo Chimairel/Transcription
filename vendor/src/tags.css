@@ -1,0 +1,75 @@
+.cm-transcript-tag {
+  background: var(--accent-tint);
+  color: var(--accent);
+  font-weight: 500;
+  padding: 2px 4px;
+  border-radius: 4px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.tag-counts {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 9px 30px;
+  border-bottom: 1px solid var(--line);
+  font-size: 11px;
+  line-height: 1.6;
+  flex-shrink: 0;
+}
+
+.tag-counts-label { color: var(--muted); }
+.tag-counts dl { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 0; }
+.tag-counts dl > div { display: flex; align-items: baseline; gap: 6px; }
+.tag-counts dt { color: var(--muted); }
+.tag-counts dd { margin: 0; color: var(--muted); font-variant-numeric: tabular-nums; }
+.tag-counts .has-tags dd { color: var(--accent); font-weight: 600; }
+
+.cm-tooltip.cm-tooltip-autocomplete.tag-command-menu {
+  width: min(300px, calc(100vw - 48px));
+  max-width: calc(100vw - 48px);
+  background: var(--surface);
+  color: var(--ink);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 8px 24px #00000018;
+  overflow: hidden;
+  font: 12px/1.5 'DM Sans', sans-serif;
+}
+.tag-command-menu::before {
+  content: 'Insert tag';
+  display: block;
+  padding: 10px 12px 6px;
+  color: var(--muted);
+  font-weight: 500;
+}
+.cm-editor .cm-tooltip.cm-tooltip-autocomplete.tag-command-menu > ul { padding: 4px 6px; max-height: 240px; font: inherit; }
+.cm-editor .cm-tooltip.cm-tooltip-autocomplete.tag-command-menu > ul > li {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  min-height: 38px;
+  padding: 8px 10px;
+  border-radius: 4px;
+  color: var(--ink);
+  cursor: pointer;
+}
+.cm-editor .cm-tooltip.cm-tooltip-autocomplete.tag-command-menu > ul > li:hover { background: var(--hover); }
+.cm-editor .cm-tooltip.cm-tooltip-autocomplete.tag-command-menu > ul > li[aria-selected] { background: var(--accent-tint); color: var(--accent); }
+.tag-command-menu .cm-completionLabel { font-weight: 500; }
+.tag-command-menu .cm-completionDetail { margin-left: auto; font-style: normal; color: inherit; }
+.tag-command-menu::after {
+  content: '↑ ↓ choose · Enter / Tab insert · Esc close';
+  display: block;
+  padding: 8px 12px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+}
+
+@media (max-width: 680px) {
+  .tag-counts { padding: 8px 18px; }
+  .tag-counts-label { display: none; }
+  .tag-counts dl { width: 100%; justify-content: space-between; gap: 6px 8px; }
+  .tag-counts dl > div { gap: 4px; }
+}

@@ -1,0 +1,10 @@
+node_modules
+.git
+outputs
+scripts
+*.mp3
+*.mp4
+*.webm
+*.wav
+*.log
+.env*

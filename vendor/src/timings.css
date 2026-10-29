@@ -1,0 +1,13 @@
+.timing-toolbar{display:flex;align-items:center;flex-wrap:wrap;gap:5px 14px;padding:7px 30px;border-bottom:1px solid var(--line);font-size:11px;color:var(--muted)}
+.timing-toolbar button{display:inline-flex;align-items:center;gap:6px;min-height:30px;border:0;background:transparent;color:var(--accent);padding:3px 6px;border-radius:var(--radius-control,6px);font:inherit;cursor:pointer}
+.timing-toolbar button[aria-pressed=true]{background:var(--accent-tint)}
+.timing-toolbar button:disabled{opacity:.55;cursor:not-allowed}
+.timing-toolbar .timing-note{flex:1;min-width:150px;line-height:1.5}
+.editor-host .cm-gutters{background:var(--paper);border:0;color:var(--muted)}
+.editor-host:not(.has-timings) .timestamp-gutter{display:none}
+.timestamp-gutter{font-family:'DM Sans',sans-serif;font-size:11px;font-variant-numeric:tabular-nums;min-width:48px}
+.timestamp-gutter .cm-gutterElement{padding-left:12px;padding-right:10px;padding-top:2px}
+.has-timings .cm-content{padding-left:20px!important}
+.line-timestamp{cursor:pointer;text-decoration:underline;text-underline-offset:3px}
+.line-timestamp:hover{color:var(--accent)}
+@media(max-width:680px){.timing-toolbar{padding:5px 18px;gap:3px 10px}.timestamp-gutter{min-width:41px;font-size:10px}.timestamp-gutter .cm-gutterElement{padding-left:8px;padding-right:5px}.has-timings .cm-content{padding-left:12px!important}}

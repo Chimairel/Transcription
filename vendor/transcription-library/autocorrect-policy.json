@@ -1,0 +1,865 @@
+{
+  "rules": [
+    {
+      "preferred": "tinuod",
+      "variants": [
+        "tinood"
+      ]
+    },
+    {
+      "preferred": "ingon-ani",
+      "variants": [
+        "ingani",
+        "ingo-ani"
+      ]
+    },
+    {
+      "preferred": "puy",
+      "variants": [
+        "poy"
+      ]
+    },
+    {
+      "preferred": "ra puy",
+      "variants": [
+        "rapuy"
+      ]
+    },
+    {
+      "preferred": "mangayo",
+      "variants": [
+        "mangay"
+      ]
+    },
+    {
+      "preferred": "gani",
+      "variants": [
+        "ngani"
+      ]
+    },
+    {
+      "preferred": "kaayo",
+      "variants": [
+        "kaau"
+      ]
+    },
+    {
+      "preferred": "jud",
+      "variants": [
+        "gyud",
+        "gud"
+      ]
+    },
+    {
+      "preferred": "karon",
+      "variants": [
+        "karun"
+      ]
+    },
+    {
+      "preferred": "naa",
+      "variants": [
+        "na-a",
+        "na'a"
+      ]
+    },
+    {
+      "preferred": "unsay",
+      "variants": [
+        "unsa'y"
+      ]
+    },
+    {
+      "preferred": "unya",
+      "variants": [
+        "unja",
+        "nya"
+      ]
+    },
+    {
+      "preferred": "yung",
+      "variants": [
+        "'yung"
+      ]
+    },
+    {
+      "preferred": "di",
+      "variants": [
+        "'di"
+      ]
+    },
+    {
+      "preferred": "wag",
+      "variants": [
+        "'wag"
+      ]
+    },
+    {
+      "preferred": "kasi",
+      "variants": [
+        "kase"
+      ]
+    },
+    {
+      "preferred": "sige",
+      "variants": [
+        "sigi"
+      ]
+    },
+    {
+      "preferred": "tan-awon",
+      "variants": [
+        "tan-awn"
+      ]
+    },
+    {
+      "preferred": "juy",
+      "variants": [
+        "gyuy"
+      ]
+    },
+    {
+      "preferred": "mo-ingon",
+      "variants": [
+        "moingon",
+        "mo ingon"
+      ]
+    },
+    {
+      "preferred": "mag-himo",
+      "variants": [
+        "maghimo",
+        "mag himo"
+      ]
+    },
+    {
+      "preferred": "ka-hibaw",
+      "variants": [
+        "kahibaw"
+      ]
+    },
+    {
+      "preferred": "maka-hibaw",
+      "variants": [
+        "makahibaw"
+      ]
+    },
+    {
+      "preferred": "resulta",
+      "variants": [
+        "risulta"
+      ]
+    },
+    {
+      "preferred": "trabahoon",
+      "variants": [
+        "trabahuon"
+      ]
+    },
+    {
+      "preferred": "buhaton",
+      "variants": [
+        "bahaton"
+      ]
+    },
+    {
+      "preferred": "mangutana",
+      "variants": [
+        "magutana"
+      ]
+    },
+    {
+      "preferred": "tika",
+      "variants": [
+        "tikaw"
+      ]
+    },
+    {
+      "preferred": "kabuok",
+      "variants": [
+        "ka buok",
+        "ka-buok"
+      ]
+    },
+    {
+      "preferred": "na pud",
+      "variants": [
+        "napud"
+      ]
+    },
+    {
+      "preferred": "ra pud",
+      "variants": [
+        "rapud"
+      ]
+    },
+    {
+      "preferred": "na lang",
+      "variants": [
+        "nalang"
+      ]
+    },
+    {
+      "preferred": "gi-trabaho",
+      "variants": [
+        "gitrabaho",
+        "gi trabaho"
+      ]
+    },
+    {
+      "preferred": "gi-himo",
+      "variants": [
+        "gihimo",
+        "gi himo"
+      ]
+    },
+    {
+      "preferred": "gi-himoan",
+      "variants": [
+        "gihimoan",
+        "gi himoan"
+      ]
+    },
+    {
+      "preferred": "gi-kuha",
+      "variants": [
+        "gikuha",
+        "gi kuha"
+      ]
+    },
+    {
+      "preferred": "gi-palit",
+      "variants": [
+        "gipalit",
+        "gi palit"
+      ]
+    },
+    {
+      "preferred": "gi-suwat",
+      "variants": [
+        "gisuwat",
+        "gi suwat"
+      ]
+    },
+    {
+      "preferred": "gi-tawag",
+      "variants": [
+        "gitawag",
+        "gi tawag"
+      ]
+    },
+    {
+      "preferred": "gi-gamit",
+      "variants": [
+        "gigamit",
+        "gi gamit"
+      ]
+    },
+    {
+      "preferred": "gi-check",
+      "variants": [
+        "gitsek",
+        "gicheck",
+        "gi check"
+      ]
+    },
+    {
+      "preferred": "i-check",
+      "variants": [
+        "ichek",
+        "icheck"
+      ]
+    },
+    {
+      "preferred": "gina-check",
+      "variants": [
+        "ginacheck"
+      ]
+    },
+    {
+      "preferred": "na-check",
+      "variants": [
+        "nacheck"
+      ]
+    },
+    {
+      "preferred": "i-post",
+      "variants": [
+        "ipost"
+      ]
+    },
+    {
+      "preferred": "mag-meeting",
+      "variants": [
+        "magmeeting"
+      ]
+    },
+    {
+      "preferred": "na-approve",
+      "variants": [
+        "naaprub",
+        "naapprove"
+      ]
+    },
+    {
+      "preferred": "i-deploy",
+      "variants": [
+        "ideploy"
+      ]
+    },
+    {
+      "preferred": "gi-approve",
+      "variants": [
+        "giapprove"
+      ]
+    },
+    {
+      "preferred": "i-send",
+      "variants": [
+        "isend"
+      ]
+    },
+    {
+      "preferred": "nagche-check",
+      "variants": [
+        "nagchechek",
+        "nag-check-check"
+      ]
+    },
+    {
+      "preferred": "computer",
+      "variants": [
+        "kompyuter"
+      ]
+    },
+    {
+      "preferred": "schedule",
+      "variants": [
+        "iskedyul"
+      ]
+    },
+    {
+      "preferred": "deadline",
+      "variants": [
+        "dedlayn"
+      ]
+    },
+    {
+      "preferred": "flowchart",
+      "variants": [
+        "flow chart"
+      ]
+    },
+    {
+      "preferred": "estimate-tan",
+      "variants": [
+        "estimatetan"
+      ]
+    },
+    {
+      "preferred": "schedule-lon",
+      "variants": [
+        "schedulelon"
+      ]
+    },
+    {
+      "preferred": "study-hi",
+      "variants": [
+        "studyhi"
+      ]
+    },
+    {
+      "preferred": "ma-agree-han",
+      "variants": [
+        "maagreehan",
+        "ma-agreehan"
+      ]
+    },
+    {
+      "preferred": "fill-in-an",
+      "variants": [
+        "fillinan",
+        "fill-inan"
+      ]
+    },
+    {
+      "preferred": "don't",
+      "variants": [
+        "dont"
+      ]
+    },
+    {
+      "preferred": "doesn't",
+      "variants": [
+        "doesnt"
+      ]
+    },
+    {
+      "preferred": "that's",
+      "variants": [
+        "thats"
+      ]
+    },
+    {
+      "preferred": "fulfill",
+      "variants": [
+        "fullfil"
+      ]
+    },
+    {
+      "preferred": "way",
+      "variants": [
+        "waty"
+      ]
+    },
+    {
+      "preferred": "flow",
+      "variants": [
+        "fllow"
+      ]
+    },
+    {
+      "preferred": "a lot",
+      "variants": [
+        "alot"
+      ]
+    },
+    {
+      "preferred": "gi-try-an",
+      "variants": [
+        "gi-tryan",
+        "gi-try-yan"
+      ]
+    },
+    {
+      "preferred": "training-on",
+      "variants": [
+        "trainingon"
+      ]
+    },
+    {
+      "preferred": "edit-on",
+      "variants": [
+        "editon"
+      ]
+    },
+    {
+      "preferred": "exam-on",
+      "variants": [
+        "examon"
+      ]
+    },
+    {
+      "preferred": "na-hibaw",
+      "variants": [
+        "nahibaw"
+      ]
+    },
+    {
+      "preferred": "naka-hibaw",
+      "variants": [
+        "nakahibaw"
+      ]
+    },
+    {
+      "preferred": "ma-hibaw-an",
+      "variants": [
+        "mahibaw-an"
+      ]
+    },
+    {
+      "preferred": "ka-hibalo",
+      "variants": [
+        "kahibalo"
+      ]
+    },
+    {
+      "preferred": "naka-hibalo",
+      "variants": [
+        "nakahibalo"
+      ]
+    },
+    {
+      "preferred": "bun-ugon",
+      "variants": [
+        "bon-ugon"
+      ]
+    },
+    {
+      "preferred": "magka-problema",
+      "variants": [
+        "magkaproblema",
+        "mag-ka-problema"
+      ]
+    },
+    {
+      "preferred": "pagka-train",
+      "variants": [
+        "pagkatrain",
+        "pag-ka-train"
+      ]
+    },
+    {
+      "preferred": "mo-analyze",
+      "variants": [
+        "mo analyze",
+        "moanalyze",
+        "mo-nalyze"
+      ]
+    },
+    {
+      "preferred": "mo-take",
+      "variants": [
+        "mo take",
+        "motake"
+      ]
+    },
+    {
+      "preferred": "ma-tie",
+      "variants": [
+        "ma tie",
+        "matie"
+      ]
+    },
+    {
+      "preferred": "nag-take",
+      "variants": [
+        "nag take",
+        "nagtake"
+      ]
+    },
+    {
+      "preferred": "ni-report",
+      "variants": [
+        "ni report",
+        "nireport"
+      ]
+    },
+    {
+      "preferred": "ma-capture",
+      "variants": [
+        "ma capture",
+        "macapture"
+      ]
+    },
+    {
+      "preferred": "sobra",
+      "variants": [
+        "subra"
+      ]
+    },
+    {
+      "preferred": "mo-sobra",
+      "variants": [
+        "mo-subra"
+      ]
+    },
+    {
+      "preferred": "kunwari",
+      "variants": [
+        "kunyari",
+        "kunyare",
+        "kunware"
+      ]
+    },
+    {
+      "preferred": "naa diri",
+      "variants": [
+        "na adiri",
+        "naadiri"
+      ]
+    },
+    {
+      "preferred": "dili ra",
+      "variants": [
+        "delira"
+      ]
+    },
+    {
+      "preferred": "ka-validate",
+      "variants": [
+        "kavalidate",
+        "ka validate"
+      ]
+    },
+    {
+      "preferred": "jung",
+      "variants": [
+        "gyung"
+      ]
+    },
+    {
+      "preferred": "atoang",
+      "variants": [
+        "atuang"
+      ]
+    },
+    {
+      "preferred": "ubos",
+      "variants": [
+        "ubus"
+      ]
+    },
+    {
+      "preferred": "nawong",
+      "variants": [
+        "nawng"
+      ]
+    },
+    {
+      "preferred": "butang",
+      "variants": [
+        "botang"
+      ]
+    },
+    {
+      "preferred": "nakabutang",
+      "variants": [
+        "nakabotang"
+      ]
+    },
+    {
+      "preferred": "nabutang",
+      "variants": [
+        "nabotang"
+      ]
+    },
+    {
+      "preferred": "mabutang",
+      "variants": [
+        "mabotang"
+      ]
+    },
+    {
+      "preferred": "ibutang",
+      "variants": [
+        "ibotang"
+      ]
+    },
+    {
+      "preferred": "butangan",
+      "variants": [
+        "botangan"
+      ]
+    },
+    {
+      "preferred": "gi-butang",
+      "variants": [
+        "gibutang",
+        "gi-botang",
+        "gibotang"
+      ]
+    },
+    {
+      "preferred": "gi-butangan",
+      "variants": [
+        "gibutangan",
+        "gi-botangan",
+        "gibotangan"
+      ]
+    },
+    {
+      "preferred": "maubos",
+      "variants": [
+        "maubus"
+      ]
+    },
+    {
+      "preferred": "imohang",
+      "variants": [
+        "imuhang"
+      ]
+    },
+    {
+      "preferred": "inyohang",
+      "variants": [
+        "inyuhang"
+      ]
+    },
+    {
+      "preferred": "inyoha",
+      "variants": [
+        "inyuha"
+      ]
+    },
+    {
+      "preferred": "gi-pili",
+      "variants": [
+        "gipili"
+      ]
+    },
+    {
+      "preferred": "diretso",
+      "variants": [
+        "ditso",
+        "diritso"
+      ]
+    },
+    {
+      "preferred": "ingon-ana",
+      "variants": [
+        "ingana",
+        "ingo-ana"
+      ]
+    },
+    {
+      "preferred": "siyempre",
+      "variants": [
+        "syempre"
+      ]
+    },
+    {
+      "preferred": "mo-gawas",
+      "variants": [
+        "mugawas",
+        "mogawas",
+        "mo gawas"
+      ]
+    },
+    {
+      "preferred": "sige-sige",
+      "variants": [
+        "sige sige",
+        "sige, sige"
+      ]
+    },
+    {
+      "preferred": "try-an",
+      "variants": [
+        "try-yan"
+      ]
+    },
+    {
+      "preferred": "na-reply-an",
+      "variants": [
+        "na-reply-yan"
+      ]
+    },
+    {
+      "preferred": "mag-himo-himo",
+      "variants": [
+        "mag himo-himo"
+      ]
+    },
+    {
+      "preferred": "mo-palit",
+      "variants": [
+        "mupalit",
+        "mopalit",
+        "mu-palit",
+        "mo palit"
+      ]
+    },
+    {
+      "preferred": "ma-transfer-ran",
+      "variants": [
+        "ma-transfer-an",
+        "ma-transferan",
+        "ma transferan",
+        "ma transfer-an",
+        "ma transferran",
+        "ma-transferran",
+        "matransferran"
+      ]
+    }
+  ],
+  "exempt_examples": [
+    "tao",
+    "kayo",
+    "naman",
+    "bago",
+    "bagong",
+    "jan",
+    "pod",
+    "dire",
+    "og",
+    "kwan",
+    "wont",
+    "its",
+    "na",
+    "naa",
+    "nana",
+    "naana",
+    "napoy",
+    "napuy",
+    "nakay",
+    "paka",
+    "raman",
+    "kabaw",
+    "makabaw",
+    "nakabaw",
+    "as is",
+    "for most",
+    "i check",
+    "e-check",
+    "e-learning",
+    "oh",
+    "oo",
+    "akong",
+    "akoang",
+    "bali",
+    "bale",
+    "o",
+    "po",
+    "na to",
+    "na ito",
+    "dito",
+    "na ito ang",
+    "mao na to",
+    "I-register ko na to",
+    "nandito",
+    "dahil yung",
+    "dahil yun",
+    "na itong",
+    "naitong",
+    "ng",
+    "nang",
+    "there is a",
+    "add to",
+    "kato ning",
+    "kato nga",
+    "kana nga",
+    "ni finance",
+    "ni accounting",
+    "sud",
+    "sod",
+    "run",
+    "nasud",
+    "nasod",
+    "to",
+    "ito",
+    "diri sa",
+    "dun",
+    "don",
+    "doon",
+    "malaman"
+  ],
+  "affixes": {
+    "enabled": true,
+    "prefixes": [
+      "mo",
+      "ma",
+      "ni",
+      "gi",
+      "gina",
+      "mag",
+      "nag",
+      "maka",
+      "naka",
+      "gipa",
+      "nagka",
+      "magka"
+    ],
+    "suffixes": [
+      "tan",
+      "lon",
+      "han",
+      "hon",
+      "ran",
+      "hi",
+      "an",
+      "on",
+      "i"
+    ]
+  }
+}

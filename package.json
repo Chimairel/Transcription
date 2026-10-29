@@ -1,0 +1,36 @@
+{
+  "name": "transcription-simple",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 4176 --strictPort",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4176 --strictPort"
+  },
+  "dependencies": {
+    "@codemirror/autocomplete": "^6.20.3",
+    "@codemirror/commands": "^6.8.1",
+    "@codemirror/lint": "^6.8.5",
+    "@codemirror/search": "^6.5.10",
+    "@codemirror/state": "^6.5.2",
+    "@codemirror/view": "^6.36.5",
+    "@fontsource/dm-sans": "^5.2.5",
+    "@fontsource/lora": "^5.2.6",
+    "dexie": "^4.0.11",
+    "dictionary-en": "^4.0.0",
+    "lucide-react": "^0.468.0",
+    "nspell": "^2.1.5",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "@types/nspell": "^2.1.6",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^6.1.2",
+    "typescript": "~5.7.3",
+    "vite": "^8.3.4"
+  }
+}
